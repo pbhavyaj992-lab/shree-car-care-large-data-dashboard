@@ -103,3 +103,15 @@ Replace the sample CSVs with the client's real export, keep the same
 columns, and re-run the same scripts. The cleaning rules are in the
 generator and analysis scripts, so the work is repeatable, not a one-off
 dashboard I made by hand.
+
+## Note on the bookings file on GitHub
+
+Locally this project has one file, `data/large_bookings.csv` (120,000 rows).
+GitHub's upload limit for a single file push meant it is stored here split by
+year instead: `data/large_bookings_2024.csv` (60,251 rows) and
+`data/large_bookings_2025.csv` (59,749 rows). Together they are the same
+120,000 rows, same columns, same order. To rebuild the single file, stack the
+two files and keep one header row.
+
+The Excel workbook `excel/Shree_Car_Care_Large_Dashboard.xlsx` is not in this
+repo yet because it is a binary file; upload it from the GitHub website.

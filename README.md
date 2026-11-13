@@ -9,7 +9,7 @@ up for this project. No real customers, no real business, no invented results.
 ## How big is it
 
 - **120,000 bookings**, Jan 2024 to Dec 2025 (2 years)
-- **15,000 customers**
+- **14,996 distinct customers booked** (15,000 customers in the file, 4 never booked)
 - **12 services**, **24 staff**, **2,400 expenses**
 - Total revenue (completed bookings only): **Rs 21,45,24,819**
 - Total expenses: **Rs 2,88,37,815**
@@ -42,7 +42,8 @@ large-data-dashboard/
     analyse_large_data.py       # pandas, writes the output/ summaries
     build_excel_dashboard.py    # openpyxl, builds the Excel workbook
   data/
-    large_bookings.csv          # 120,000 rows
+    large_bookings_2024.csv     # 60,251 rows (split by year on GitHub)
+    large_bookings_2025.csv     # 59,749 rows (split by year on GitHub)
     large_customers.csv         # 15,000 rows
     large_services.csv          # 12 rows
     large_expenses.csv          # 2,400 rows

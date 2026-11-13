@@ -113,5 +113,4 @@ year instead: `data/large_bookings_2024.csv` (60,251 rows) and
 120,000 rows, same columns, same order. To rebuild the single file, stack the
 two files and keep one header row.
 
-The Excel workbook `excel/Shree_Car_Care_Large_Dashboard.xlsx` is not in this
-repo yet because it is a binary file; upload it from the GitHub website.
+The Excel workbook is now in `excel/Shree_Car_Care_Large_Dashboard.xlsx`.

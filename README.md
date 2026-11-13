@@ -115,3 +115,10 @@ year instead: `data/large_bookings_2024.csv` (60,251 rows) and
 two files and keep one header row.
 
 The Excel workbook is now in `excel/Shree_Car_Care_Large_Dashboard.xlsx`.
+
+## What I would do differently
+
+- The 99.7% repeat rate is an artefact of the sample (120,000 bookings across 15,000 customers, about 8 each). Next time I would generate a realistic mix of new and returning customers instead of letting the maths produce a near-perfect repeat rate.
+- The Excel workbook is a reconciled workbook, not an interactive dashboard: no slicers, no timeline. I would rebuild it with PivotTables sharing one PivotCache, slicers with Report Connections, and a timeline.
+- There is no `.pbix` in this repo. I would build the Power BI report from `powerbi/docs/powerbi_large_model.md` and check every measure against `output/kpis.txt`.
+- Year-on-year revenue growth is 0.70%, flat. I would add a service-level breakdown so a flat headline still shows which services are growing and which are shrinking.

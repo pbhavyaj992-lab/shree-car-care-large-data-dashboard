@@ -1,0 +1,13 @@
+service_id,service_name,category,base_price_inr,duration_min
+S01,Basic Car Wash,Wash,299,30
+S02,Premium Car Wash,Wash,499,45
+S03,Foam Wash,Wash,399,35
+S04,Interior Detailing,Detailing,1499,120
+S05,Exterior Detailing,Detailing,1799,150
+S06,Full Detailing,Detailing,3499,240
+S07,Ceramic Coating,Coating,9999,360
+S08,Ceramic Coating Pro,Coating,14999,480
+S09,Paint Protection Film,PPF,24999,480
+S10,PPF Partial,PPF,12999,300
+S11,Exterior Polish,Polish,999,90
+S12,Headlight Restoration,Polish,799,60

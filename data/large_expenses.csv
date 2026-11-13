@@ -1,0 +1,2401 @@
+expense_id,expense_date,branch,category,amount_inr
+E00001,2024-01-01,Anand,Rent,45000
+E00002,2024-01-05,Anand,Salary,215040
+E00003,2024-01-10,Anand,Utilities,11774
+E00004,2024-01-15,Anand,Marketing,5030
+E00005,2024-01-05,Anand,Consumables,2337
+E00006,2024-01-07,Anand,Consumables,3289
+E00007,2024-01-21,Anand,Consumables,3491
+E00008,2024-01-02,Anand,Consumables,5828
+E00009,2024-01-26,Anand,Consumables,5648
+E00010,2024-01-26,Anand,Maintenance,1180
+E00011,2024-01-27,Anand,Consumables,2602
+E00012,2024-01-02,Anand,Maintenance,6220
+E00013,2024-01-17,Anand,Consumables,2688
+E00014,2024-01-13,Anand,Consumables,1704
+E00015,2024-01-07,Anand,Consumables,4368
+E00016,2024-01-14,Anand,Consumables,551
+E00017,2024-01-26,Anand,Maintenance,4734
+E00018,2024-01-06,Anand,Consumables,6320
+E00019,2024-01-21,Anand,Consumables,4770
+E00020,2024-01-08,Anand,Consumables,2934
+E00021,2024-01-26,Anand,Consumables,4722
+E00022,2024-01-04,Anand,Maintenance,1138
+E00023,2024-01-13,Anand,Consumables,4314
+E00024,2024-01-20,Anand,Consumables,1873
+E00025,2024-01-11,Anand,Maintenance,3864
+E00026,2024-01-08,Anand,Consumables,3015
+E00027,2024-01-09,Anand,Consumables,4349
+E00028,2024-01-13,Anand,Maintenance,7501
+E00029,2024-01-03,Anand,Consumables,3997
+E00030,2024-01-21,Anand,Maintenance,3683
+E00031,2024-01-22,Anand,Consumables,4544
+E00032,2024-01-10,Anand,Consumables,1064
+E00033,2024-01-01,Vallabh Vidyanagar,Rent,40000
+E00034,2024-01-05,Vallabh Vidyanagar,Salary,222767
+E00035,2024-01-10,Vallabh Vidyanagar,Utilities,14030
+E00036,2024-01-15,Vallabh Vidyanagar,Marketing,8831
+E00037,2024-01-18,Vallabh Vidyanagar,Consumables,6080
+E00038,2024-01-07,Vallabh Vidyanagar,Consumables,1266
+E00039,2024-01-17,Vallabh Vidyanagar,Consumables,3328
+E00040,2024-01-15,Vallabh Vidyanagar,Consumables,1008
+E00041,2024-01-24,Vallabh Vidyanagar,Consumables,1296
+E00042,2024-01-24,Vallabh Vidyanagar,Maintenance,7803
+E00043,2024-01-01,Vallabh Vidyanagar,Consumables,1878
+E00044,2024-01-28,Vallabh Vidyanagar,Maintenance,6098
+E00045,2024-01-20,Vallabh Vidyanagar,Consumables,1372
+E00046,2024-01-16,Vallabh Vidyanagar,Consumables,7107
+E00047,2024-01-03,Vallabh Vidyanagar,Consumables,6602
+E00048,2024-01-27,Vallabh Vidyanagar,Consumables,3184
+E00049,2024-01-03,Vallabh Vidyanagar,Consumables,6392
+E00050,2024-01-25,Vallabh Vidyanagar,Consumables,2112
+E00051,2024-01-14,Vallabh Vidyanagar,Consumables,3655
+E00052,2024-01-06,Vallabh Vidyanagar,Maintenance,7007
+E00053,2024-01-16,Vallabh Vidyanagar,Consumables,5515
+E00054,2024-01-07,Vallabh Vidyanagar,Consumables,1514
+E00055,2024-01-19,Vallabh Vidyanagar,Consumables,513
+E00056,2024-01-04,Vallabh Vidyanagar,Consumables,7174
+E00057,2024-01-08,Vallabh Vidyanagar,Consumables,7448
+E00058,2024-01-01,Vallabh Vidyanagar,Maintenance,4503
+E00059,2024-01-26,Vallabh Vidyanagar,Maintenance,2376
+E00060,2024-01-09,Vallabh Vidyanagar,Consumables,2197
+E00061,2024-01-06,Vallabh Vidyanagar,Consumables,842
+E00062,2024-01-04,Vallabh Vidyanagar,Consumables,3946
+E00063,2024-01-23,Vallabh Vidyanagar,Consumables,3956
+E00064,2024-01-12,Vallabh Vidyanagar,Maintenance,7979
+E00065,2024-01-23,Vallabh Vidyanagar,Maintenance,4514
+E00066,2024-01-01,Vallabh Vidyanagar,Consumables,807
+E00067,2024-01-01,Ahmedabad,Rent,65000
+E00068,2024-01-05,Ahmedabad,Salary,225306
+E00069,2024-01-10,Ahmedabad,Utilities,8977
+E00070,2024-01-15,Ahmedabad,Marketing,9822
+E00071,2024-01-16,Ahmedabad,Consumables,5701
+E00072,2024-01-22,Ahmedabad,Consumables,6132
+E00073,2024-01-21,Ahmedabad,Maintenance,3420
+E00074,2024-01-13,Ahmedabad,Consumables,1040
+E00075,2024-01-09,Ahmedabad,Maintenance,6210
+E00076,2024-01-22,Ahmedabad,Consumables,5654
+E00077,2024-01-22,Ahmedabad,Maintenance,1527
+E00078,2024-01-16,Ahmedabad,Consumables,1299
+E00079,2024-01-14,Ahmedabad,Consumables,640
+E00080,2024-01-11,Ahmedabad,Consumables,7202
+E00081,2024-01-02,Ahmedabad,Maintenance,1306
+E00082,2024-01-27,Ahmedabad,Maintenance,3180
+E00083,2024-01-22,Ahmedabad,Consumables,3838
+E00084,2024-01-26,Ahmedabad,Consumables,1607
+E00085,2024-01-09,Ahmedabad,Maintenance,3471
+E00086,2024-01-20,Ahmedabad,Maintenance,7384
+E00087,2024-01-17,Ahmedabad,Consumables,6088
+E00088,2024-01-24,Ahmedabad,Consumables,1899
+E00089,2024-01-14,Ahmedabad,Consumables,7771
+E00090,2024-01-12,Ahmedabad,Consumables,7249
+E00091,2024-01-23,Ahmedabad,Consumables,5783
+E00092,2024-01-20,Ahmedabad,Consumables,5335
+E00093,2024-01-26,Ahmedabad,Consumables,2848
+E00094,2024-01-14,Ahmedabad,Consumables,7120
+E00095,2024-01-09,Ahmedabad,Consumables,3692
+E00096,2024-01-22,Ahmedabad,Consumables,6564
+E00097,2024-01-11,Ahmedabad,Maintenance,3492
+E00098,2024-01-06,Ahmedabad,Maintenance,4871
+E00099,2024-01-07,Ahmedabad,Consumables,869
+E00100,2024-01-27,Ahmedabad,Maintenance,1959
+E00101,2024-02-01,Anand,Rent,45000
+E00102,2024-02-05,Anand,Salary,181560
+E00103,2024-02-10,Anand,Utilities,14038
+E00104,2024-02-15,Anand,Marketing,10685
+E00105,2024-02-03,Anand,Consumables,3451
+E00106,2024-02-19,Anand,Maintenance,6003
+E00107,2024-02-24,Anand,Consumables,3222
+E00108,2024-02-14,Anand,Consumables,3044
+E00109,2024-02-23,Anand,Consumables,7847
+E00110,2024-02-20,Anand,Maintenance,2890
+E00111,2024-02-09,Anand,Consumables,4389
+E00112,2024-02-17,Anand,Consumables,3037
+E00113,2024-02-23,Anand,Maintenance,6142
+E00114,2024-02-28,Anand,Consumables,4160
+E00115,2024-02-25,Anand,Consumables,2619
+E00116,2024-02-10,Anand,Consumables,1338
+E00117,2024-02-18,Anand,Consumables,2411
+E00118,2024-02-16,Anand,Maintenance,5986
+E00119,2024-02-08,Anand,Consumables,5379
+E00120,2024-02-07,Anand,Maintenance,3253
+E00121,2024-02-27,Anand,Consumables,7361
+E00122,2024-02-26,Anand,Maintenance,1200
+E00123,2024-02-16,Anand,Consumables,4259
+E00124,2024-02-26,Anand,Maintenance,1702
+E00125,2024-02-03,Anand,Consumables,2136
+E00126,2024-02-07,Anand,Consumables,2492
+E00127,2024-02-27,Anand,Consumables,5806
+E00128,2024-02-07,Anand,Consumables,4820
+E00129,2024-02-07,Anand,Consumables,1708
+E00130,2024-02-01,Vallabh Vidyanagar,Rent,40000
+E00131,2024-02-05,Vallabh Vidyanagar,Salary,183683
+E00132,2024-02-10,Vallabh Vidyanagar,Utilities,10606
+E00133,2024-02-15,Vallabh Vidyanagar,Marketing,5239
+E00134,2024-02-06,Vallabh Vidyanagar,Maintenance,1263
+E00135,2024-02-19,Vallabh Vidyanagar,Consumables,7558
+E00136,2024-02-01,Vallabh Vidyanagar,Maintenance,3108
+E00137,2024-02-08,Vallabh Vidyanagar,Consumables,660
+E00138,2024-02-03,Vallabh Vidyanagar,Maintenance,7274
+E00139,2024-02-10,Vallabh Vidyanagar,Consumables,799
+E00140,2024-02-12,Vallabh Vidyanagar,Maintenance,3375
+E00141,2024-02-08,Vallabh Vidyanagar,Consumables,5633
+E00142,2024-02-13,Vallabh Vidyanagar,Maintenance,3335
+E00143,2024-02-26,Vallabh Vidyanagar,Consumables,5490
+E00144,2024-02-15,Vallabh Vidyanagar,Maintenance,5894
+E00145,2024-02-03,Vallabh Vidyanagar,Maintenance,7125
+E00146,2024-02-20,Vallabh Vidyanagar,Consumables,1282
+E00147,2024-02-05,Vallabh Vidyanagar,Consumables,1998
+E00148,2024-02-02,Vallabh Vidyanagar,Maintenance,4566
+E00149,2024-02-07,Vallabh Vidyanagar,Consumables,7923
+E00150,2024-02-28,Vallabh Vidyanagar,Maintenance,6634
+E00151,2024-02-19,Vallabh Vidyanagar,Consumables,7145
+E00152,2024-02-14,Vallabh Vidyanagar,Maintenance,3637
+E00153,2024-02-05,Vallabh Vidyanagar,Maintenance,630
+E00154,2024-02-22,Vallabh Vidyanagar,Consumables,4576
+E00155,2024-02-01,Vallabh Vidyanagar,Consumables,5649
+E00156,2024-02-01,Vallabh Vidyanagar,Consumables,4493
+E00157,2024-02-12,Vallabh Vidyanagar,Consumables,5400
+E00158,2024-02-04,Vallabh Vidyanagar,Consumables,5577
+E00159,2024-02-19,Vallabh Vidyanagar,Consumables,6438
+E00160,2024-02-23,Vallabh Vidyanagar,Consumables,2868
+E00161,2024-02-01,Ahmedabad,Rent,65000
+E00162,2024-02-05,Ahmedabad,Salary,226975
+E00163,2024-02-10,Ahmedabad,Utilities,12656
+E00164,2024-02-15,Ahmedabad,Marketing,14390
+E00165,2024-02-24,Ahmedabad,Consumables,2156
+E00166,2024-02-19,Ahmedabad,Consumables,3167
+E00167,2024-02-08,Ahmedabad,Consumables,1768
+E00168,2024-02-14,Ahmedabad,Maintenance,6620
+E00169,2024-02-20,Ahmedabad,Maintenance,1638
+E00170,2024-02-17,Ahmedabad,Consumables,5750
+E00171,2024-02-21,Ahmedabad,Consumables,6314
+E00172,2024-02-21,Ahmedabad,Consumables,4665
+E00173,2024-02-21,Ahmedabad,Consumables,1891
+E00174,2024-02-07,Ahmedabad,Maintenance,4507
+E00175,2024-02-02,Ahmedabad,Consumables,3163
+E00176,2024-02-26,Ahmedabad,Maintenance,3445
+E00177,2024-02-24,Ahmedabad,Maintenance,7084
+E00178,2024-02-14,Ahmedabad,Consumables,7746
+E00179,2024-02-22,Ahmedabad,Consumables,2574
+E00180,2024-02-28,Ahmedabad,Consumables,2340
+E00181,2024-02-23,Ahmedabad,Consumables,2280
+E00182,2024-02-21,Ahmedabad,Maintenance,6287
+E00183,2024-02-01,Ahmedabad,Maintenance,7433
+E00184,2024-02-16,Ahmedabad,Consumables,2902
+E00185,2024-02-05,Ahmedabad,Consumables,4029
+E00186,2024-02-28,Ahmedabad,Maintenance,5641
+E00187,2024-02-15,Ahmedabad,Consumables,657
+E00188,2024-02-07,Ahmedabad,Maintenance,5371
+E00189,2024-03-01,Anand,Rent,45000
+E00190,2024-03-05,Anand,Salary,196673
+E00191,2024-03-10,Anand,Utilities,11543
+E00192,2024-03-15,Anand,Marketing,16406
+E00193,2024-03-10,Anand,Consumables,4353
+E00194,2024-03-25,Anand,Consumables,6311
+E00195,2024-03-19,Anand,Consumables,4195
+E00196,2024-03-27,Anand,Consumables,1055
+E00197,2024-03-21,Anand,Consumables,5953
+E00198,2024-03-27,Anand,Consumables,2790
+E00199,2024-03-18,Anand,Consumables,7264
+E00200,2024-03-27,Anand,Maintenance,1169
+E00201,2024-03-14,Anand,Consumables,4895
+E00202,2024-03-12,Anand,Consumables,5341
+E00203,2024-03-08,Anand,Consumables,3001
+E00204,2024-03-24,Anand,Maintenance,2678
+E00205,2024-03-23,Anand,Consumables,4788
+E00206,2024-03-06,Anand,Consumables,1711
+E00207,2024-03-19,Anand,Consumables,4746
+E00208,2024-03-22,Anand,Consumables,4052
+E00209,2024-03-06,Anand,Consumables,6607
+E00210,2024-03-27,Anand,Consumables,4703
+E00211,2024-03-15,Anand,Consumables,2904
+E00212,2024-03-06,Anand,Maintenance,5749
+E00213,2024-03-28,Anand,Maintenance,4814
+E00214,2024-03-14,Anand,Maintenance,7884
+E00215,2024-03-21,Anand,Maintenance,1983
+E00216,2024-03-11,Anand,Consumables,3332
+E00217,2024-03-01,Vallabh Vidyanagar,Rent,40000
+E00218,2024-03-05,Vallabh Vidyanagar,Salary,193678
+E00219,2024-03-10,Vallabh Vidyanagar,Utilities,13548
+E00220,2024-03-15,Vallabh Vidyanagar,Marketing,10911
+E00221,2024-03-17,Vallabh Vidyanagar,Consumables,3656
+E00222,2024-03-19,Vallabh Vidyanagar,Maintenance,6058
+E00223,2024-03-16,Vallabh Vidyanagar,Maintenance,1967
+E00224,2024-03-14,Vallabh Vidyanagar,Consumables,6410
+E00225,2024-03-25,Vallabh Vidyanagar,Consumables,529
+E00226,2024-03-17,Vallabh Vidyanagar,Consumables,2020
+E00227,2024-03-27,Vallabh Vidyanagar,Consumables,7758
+E00228,2024-03-28,Vallabh Vidyanagar,Maintenance,3419
+E00229,2024-03-01,Vallabh Vidyanagar,Maintenance,5634
+E00230,2024-03-10,Vallabh Vidyanagar,Consumables,3807
+E00231,2024-03-02,Vallabh Vidyanagar,Consumables,1904
+E00232,2024-03-18,Vallabh Vidyanagar,Consumables,4821
+E00233,2024-03-17,Vallabh Vidyanagar,Maintenance,7424
+E00234,2024-03-08,Vallabh Vidyanagar,Consumables,1790
+E00235,2024-03-09,Vallabh Vidyanagar,Maintenance,3986
+E00236,2024-03-02,Vallabh Vidyanagar,Maintenance,7550
+E00237,2024-03-01,Vallabh Vidyanagar,Consumables,5528
+E00238,2024-03-14,Vallabh Vidyanagar,Consumables,5171
+E00239,2024-03-01,Vallabh Vidyanagar,Consumables,3425
+E00240,2024-03-16,Vallabh Vidyanagar,Consumables,7523
+E00241,2024-03-11,Vallabh Vidyanagar,Consumables,7666
+E00242,2024-03-07,Vallabh Vidyanagar,Consumables,6233
+E00243,2024-03-08,Vallabh Vidyanagar,Consumables,4481
+E00244,2024-03-10,Vallabh Vidyanagar,Consumables,4196
+E00245,2024-03-27,Vallabh Vidyanagar,Maintenance,6631
+E00246,2024-03-10,Vallabh Vidyanagar,Consumables,4627
+E00247,2024-03-23,Vallabh Vidyanagar,Consumables,6833
+E00248,2024-03-10,Vallabh Vidyanagar,Consumables,1350
+E00249,2024-03-21,Vallabh Vidyanagar,Consumables,2771
+E00250,2024-03-01,Ahmedabad,Rent,65000
+E00251,2024-03-05,Ahmedabad,Salary,206227
+E00252,2024-03-10,Ahmedabad,Utilities,8449
+E00253,2024-03-15,Ahmedabad,Marketing,17584
+E00254,2024-03-06,Ahmedabad,Maintenance,4178
+E00255,2024-03-13,Ahmedabad,Consumables,4272
+E00256,2024-03-14,Ahmedabad,Consumables,6447
+E00257,2024-03-05,Ahmedabad,Consumables,2961
+E00258,2024-03-18,Ahmedabad,Maintenance,1663
+E00259,2024-03-19,Ahmedabad,Consumables,6120
+E00260,2024-03-12,Ahmedabad,Maintenance,2228
+E00261,2024-03-04,Ahmedabad,Consumables,3325
+E00262,2024-03-07,Ahmedabad,Consumables,3996
+E00263,2024-03-11,Ahmedabad,Maintenance,6835
+E00264,2024-03-02,Ahmedabad,Consumables,2955
+E00265,2024-03-16,Ahmedabad,Consumables,7100
+E00266,2024-03-25,Ahmedabad,Consumables,6542
+E00267,2024-03-21,Ahmedabad,Consumables,3591
+E00268,2024-03-13,Ahmedabad,Consumables,5840
+E00269,2024-03-08,Ahmedabad,Consumables,522
+E00270,2024-03-02,Ahmedabad,Consumables,3971
+E00271,2024-03-18,Ahmedabad,Consumables,5551
+E00272,2024-03-23,Ahmedabad,Consumables,6107
+E00273,2024-03-18,Ahmedabad,Maintenance,7598
+E00274,2024-03-10,Ahmedabad,Consumables,1915
+E00275,2024-03-16,Ahmedabad,Consumables,5364
+E00276,2024-03-02,Ahmedabad,Consumables,4054
+E00277,2024-03-18,Ahmedabad,Consumables,1289
+E00278,2024-03-07,Ahmedabad,Consumables,1858
+E00279,2024-04-01,Anand,Rent,45000
+E00280,2024-04-05,Anand,Salary,217593
+E00281,2024-04-10,Anand,Utilities,12242
+E00282,2024-04-15,Anand,Marketing,17267
+E00283,2024-04-19,Anand,Maintenance,5519
+E00284,2024-04-12,Anand,Consumables,3445
+E00285,2024-04-24,Anand,Consumables,6775
+E00286,2024-04-25,Anand,Consumables,1052
+E00287,2024-04-18,Anand,Maintenance,6696
+E00288,2024-04-24,Anand,Consumables,6181
+E00289,2024-04-15,Anand,Consumables,3869
+E00290,2024-04-17,Anand,Consumables,5975
+E00291,2024-04-10,Anand,Consumables,6073
+E00292,2024-04-18,Anand,Consumables,2308
+E00293,2024-04-12,Anand,Consumables,7594
+E00294,2024-04-19,Anand,Consumables,1439
+E00295,2024-04-14,Anand,Consumables,6559
+E00296,2024-04-25,Anand,Consumables,5084
+E00297,2024-04-04,Anand,Consumables,2594
+E00298,2024-04-14,Anand,Consumables,5936
+E00299,2024-04-01,Anand,Consumables,6518
+E00300,2024-04-26,Anand,Consumables,7902
+E00301,2024-04-16,Anand,Maintenance,3742
+E00302,2024-04-15,Anand,Maintenance,992
+E00303,2024-04-24,Anand,Consumables,6020
+E00304,2024-04-01,Anand,Consumables,6218
+E00305,2024-04-01,Anand,Consumables,3756
+E00306,2024-04-12,Anand,Consumables,6312
+E00307,2024-04-02,Anand,Consumables,2019
+E00308,2024-04-01,Vallabh Vidyanagar,Rent,40000
+E00309,2024-04-05,Vallabh Vidyanagar,Salary,214406
+E00310,2024-04-10,Vallabh Vidyanagar,Utilities,14056
+E00311,2024-04-15,Vallabh Vidyanagar,Marketing,19040
+E00312,2024-04-28,Vallabh Vidyanagar,Consumables,7047
+E00313,2024-04-11,Vallabh Vidyanagar,Consumables,7182
+E00314,2024-04-26,Vallabh Vidyanagar,Consumables,6398
+E00315,2024-04-15,Vallabh Vidyanagar,Consumables,3410
+E00316,2024-04-01,Vallabh Vidyanagar,Consumables,3215
+E00317,2024-04-10,Vallabh Vidyanagar,Maintenance,4398
+E00318,2024-04-04,Vallabh Vidyanagar,Maintenance,7660
+E00319,2024-04-11,Vallabh Vidyanagar,Consumables,3873
+E00320,2024-04-01,Vallabh Vidyanagar,Consumables,7448
+E00321,2024-04-19,Vallabh Vidyanagar,Maintenance,7987
+E00322,2024-04-10,Vallabh Vidyanagar,Consumables,5731
+E00323,2024-04-02,Vallabh Vidyanagar,Consumables,2062
+E00324,2024-04-24,Vallabh Vidyanagar,Consumables,5706
+E00325,2024-04-27,Vallabh Vidyanagar,Maintenance,5691
+E00326,2024-04-06,Vallabh Vidyanagar,Consumables,7159
+E00327,2024-04-11,Vallabh Vidyanagar,Consumables,6194
+E00328,2024-04-10,Vallabh Vidyanagar,Consumables,7774
+E00329,2024-04-20,Vallabh Vidyanagar,Consumables,5364
+E00330,2024-04-04,Vallabh Vidyanagar,Consumables,5638
+E00331,2024-04-24,Vallabh Vidyanagar,Maintenance,2428
+E00332,2024-04-27,Vallabh Vidyanagar,Consumables,3210
+E00333,2024-04-25,Vallabh Vidyanagar,Consumables,2487
+E00334,2024-04-23,Vallabh Vidyanagar,Maintenance,4831
+E00335,2024-04-02,Vallabh Vidyanagar,Consumables,977
+E00336,2024-04-23,Vallabh Vidyanagar,Consumables,6271
+E00337,2024-04-08,Vallabh Vidyanagar,Consumables,7158
+E00338,2024-04-14,Vallabh Vidyanagar,Maintenance,7965
+E00339,2024-04-01,Ahmedabad,Rent,65000
+E00340,2024-04-05,Ahmedabad,Salary,219491
+E00341,2024-04-10,Ahmedabad,Utilities,8042
+E00342,2024-04-15,Ahmedabad,Marketing,5393
+E00343,2024-04-23,Ahmedabad,Consumables,5800
+E00344,2024-04-23,Ahmedabad,Maintenance,2349
+E00345,2024-04-11,Ahmedabad,Maintenance,687
+E00346,2024-04-18,Ahmedabad,Maintenance,3576
+E00347,2024-04-20,Ahmedabad,Consumables,7210
+E00348,2024-04-25,Ahmedabad,Consumables,5479
+E00349,2024-04-10,Ahmedabad,Maintenance,1336
+E00350,2024-04-25,Ahmedabad,Consumables,2776
+E00351,2024-04-25,Ahmedabad,Consumables,7197
+E00352,2024-04-09,Ahmedabad,Maintenance,4276
+E00353,2024-04-05,Ahmedabad,Consumables,5574
+E00354,2024-04-28,Ahmedabad,Maintenance,2628
+E00355,2024-04-23,Ahmedabad,Consumables,4338
+E00356,2024-04-21,Ahmedabad,Consumables,1592
+E00357,2024-04-04,Ahmedabad,Consumables,1989
+E00358,2024-04-24,Ahmedabad,Consumables,2864
+E00359,2024-04-04,Ahmedabad,Consumables,2670
+E00360,2024-04-02,Ahmedabad,Consumables,3995
+E00361,2024-04-20,Ahmedabad,Consumables,2607
+E00362,2024-04-11,Ahmedabad,Consumables,6742
+E00363,2024-04-16,Ahmedabad,Consumables,4497
+E00364,2024-04-26,Ahmedabad,Consumables,5373
+E00365,2024-04-25,Ahmedabad,Maintenance,7359
+E00366,2024-04-05,Ahmedabad,Maintenance,2326
+E00367,2024-04-17,Ahmedabad,Consumables,3541
+E00368,2024-04-11,Ahmedabad,Consumables,4008
+E00369,2024-05-01,Anand,Rent,45000
+E00370,2024-05-05,Anand,Salary,185220
+E00371,2024-05-10,Anand,Utilities,9280
+E00372,2024-05-15,Anand,Marketing,18127
+E00373,2024-05-13,Anand,Maintenance,4105
+E00374,2024-05-02,Anand,Consumables,3201
+E00375,2024-05-10,Anand,Consumables,6944
+E00376,2024-05-25,Anand,Consumables,4281
+E00377,2024-05-06,Anand,Consumables,1759
+E00378,2024-05-22,Anand,Maintenance,2482
+E00379,2024-05-24,Anand,Maintenance,6447
+E00380,2024-05-05,Anand,Consumables,3626
+E00381,2024-05-18,Anand,Maintenance,5094
+E00382,2024-05-21,Anand,Consumables,1445
+E00383,2024-05-12,Anand,Consumables,4656
+E00384,2024-05-12,Anand,Maintenance,5726
+E00385,2024-05-17,Anand,Consumables,5054
+E00386,2024-05-25,Anand,Consumables,2247
+E00387,2024-05-06,Anand,Consumables,3380
+E00388,2024-05-18,Anand,Consumables,3530
+E00389,2024-05-05,Anand,Maintenance,4412
+E00390,2024-05-16,Anand,Consumables,3540
+E00391,2024-05-16,Anand,Maintenance,4705
+E00392,2024-05-26,Anand,Consumables,6355
+E00393,2024-05-11,Anand,Consumables,7909
+E00394,2024-05-10,Anand,Consumables,2668
+E00395,2024-05-11,Anand,Consumables,7102
+E00396,2024-05-07,Anand,Consumables,2264
+E00397,2024-05-14,Anand,Consumables,1272
+E00398,2024-05-01,Vallabh Vidyanagar,Rent,40000
+E00399,2024-05-05,Vallabh Vidyanagar,Salary,205224
+E00400,2024-05-10,Vallabh Vidyanagar,Utilities,12448
+E00401,2024-05-15,Vallabh Vidyanagar,Marketing,17222
+E00402,2024-05-26,Vallabh Vidyanagar,Maintenance,5713
+E00403,2024-05-26,Vallabh Vidyanagar,Consumables,1865
+E00404,2024-05-08,Vallabh Vidyanagar,Consumables,7406
+E00405,2024-05-12,Vallabh Vidyanagar,Consumables,698
+E00406,2024-05-12,Vallabh Vidyanagar,Consumables,3719
+E00407,2024-05-17,Vallabh Vidyanagar,Consumables,4262
+E00408,2024-05-23,Vallabh Vidyanagar,Consumables,2766
+E00409,2024-05-26,Vallabh Vidyanagar,Maintenance,3996
+E00410,2024-05-11,Vallabh Vidyanagar,Consumables,2465
+E00411,2024-05-08,Vallabh Vidyanagar,Consumables,2706
+E00412,2024-05-06,Vallabh Vidyanagar,Consumables,3282
+E00413,2024-05-17,Vallabh Vidyanagar,Consumables,4563
+E00414,2024-05-06,Vallabh Vidyanagar,Consumables,6066
+E00415,2024-05-08,Vallabh Vidyanagar,Consumables,936
+E00416,2024-05-24,Vallabh Vidyanagar,Consumables,3581
+E00417,2024-05-06,Vallabh Vidyanagar,Consumables,2436
+E00418,2024-05-22,Vallabh Vidyanagar,Consumables,6371
+E00419,2024-05-01,Vallabh Vidyanagar,Consumables,5492
+E00420,2024-05-05,Vallabh Vidyanagar,Consumables,3564
+E00421,2024-05-08,Vallabh Vidyanagar,Maintenance,1610
+E00422,2024-05-08,Vallabh Vidyanagar,Consumables,2969
+E00423,2024-05-15,Vallabh Vidyanagar,Consumables,7066
+E00424,2024-05-01,Vallabh Vidyanagar,Consumables,6747
+E00425,2024-05-13,Vallabh Vidyanagar,Consumables,3903
+E00426,2024-05-18,Vallabh Vidyanagar,Consumables,6969
+E00427,2024-05-15,Vallabh Vidyanagar,Consumables,7582
+E00428,2024-05-13,Vallabh Vidyanagar,Consumables,7398
+E00429,2024-05-12,Vallabh Vidyanagar,Consumables,2620
+E00430,2024-05-01,Ahmedabad,Rent,65000
+E00431,2024-05-05,Ahmedabad,Salary,187388
+E00432,2024-05-10,Ahmedabad,Utilities,10211
+E00433,2024-05-15,Ahmedabad,Marketing,18579
+E00434,2024-05-09,Ahmedabad,Consumables,1177
+E00435,2024-05-12,Ahmedabad,Consumables,2142
+E00436,2024-05-02,Ahmedabad,Maintenance,6565
+E00437,2024-05-24,Ahmedabad,Consumables,7837
+E00438,2024-05-08,Ahmedabad,Maintenance,3515
+E00439,2024-05-06,Ahmedabad,Maintenance,4940
+E00440,2024-05-28,Ahmedabad,Consumables,6946
+E00441,2024-05-18,Ahmedabad,Consumables,1002
+E00442,2024-05-28,Ahmedabad,Consumables,4131
+E00443,2024-05-27,Ahmedabad,Consumables,4813
+E00444,2024-05-01,Ahmedabad,Maintenance,1607
+E00445,2024-05-18,Ahmedabad,Consumables,1853
+E00446,2024-05-06,Ahmedabad,Maintenance,5680
+E00447,2024-05-07,Ahmedabad,Consumables,4070
+E00448,2024-05-07,Ahmedabad,Consumables,2578
+E00449,2024-05-19,Ahmedabad,Consumables,5823
+E00450,2024-05-28,Ahmedabad,Consumables,5707
+E00451,2024-05-25,Ahmedabad,Consumables,7721
+E00452,2024-05-27,Ahmedabad,Consumables,3728
+E00453,2024-05-04,Ahmedabad,Consumables,1154
+E00454,2024-05-06,Ahmedabad,Consumables,1838
+E00455,2024-05-14,Ahmedabad,Consumables,2182
+E00456,2024-05-19,Ahmedabad,Consumables,1671
+E00457,2024-05-05,Ahmedabad,Maintenance,2004
+E00458,2024-05-22,Ahmedabad,Consumables,7325
+E00459,2024-05-27,Ahmedabad,Consumables,5081
+E00460,2024-05-14,Ahmedabad,Consumables,4011
+E00461,2024-06-01,Anand,Rent,45000
+E00462,2024-06-05,Anand,Salary,214646
+E00463,2024-06-10,Anand,Utilities,9555
+E00464,2024-06-15,Anand,Marketing,12051
+E00465,2024-06-22,Anand,Consumables,4563
+E00466,2024-06-13,Anand,Consumables,4817
+E00467,2024-06-05,Anand,Consumables,1788
+E00468,2024-06-06,Anand,Consumables,2105
+E00469,2024-06-17,Anand,Consumables,5665
+E00470,2024-06-18,Anand,Consumables,3764
+E00471,2024-06-10,Anand,Consumables,5882
+E00472,2024-06-05,Anand,Consumables,3144
+E00473,2024-06-12,Anand,Consumables,4416
+E00474,2024-06-22,Anand,Consumables,4436
+E00475,2024-06-23,Anand,Consumables,6634
+E00476,2024-06-10,Anand,Maintenance,6977
+E00477,2024-06-18,Anand,Maintenance,2972
+E00478,2024-06-13,Anand,Maintenance,4149
+E00479,2024-06-13,Anand,Maintenance,1163
+E00480,2024-06-10,Anand,Maintenance,1255
+E00481,2024-06-27,Anand,Consumables,3809
+E00482,2024-06-25,Anand,Maintenance,2901
+E00483,2024-06-11,Anand,Consumables,3332
+E00484,2024-06-25,Anand,Consumables,1930
+E00485,2024-06-25,Anand,Consumables,3301
+E00486,2024-06-09,Anand,Consumables,1969
+E00487,2024-06-03,Anand,Consumables,3991
+E00488,2024-06-05,Anand,Maintenance,3401
+E00489,2024-06-14,Anand,Consumables,560
+E00490,2024-06-01,Vallabh Vidyanagar,Rent,40000
+E00491,2024-06-05,Vallabh Vidyanagar,Salary,235220
+E00492,2024-06-10,Vallabh Vidyanagar,Utilities,14462
+E00493,2024-06-15,Vallabh Vidyanagar,Marketing,14433
+E00494,2024-06-27,Vallabh Vidyanagar,Consumables,2992
+E00495,2024-06-16,Vallabh Vidyanagar,Consumables,6275
+E00496,2024-06-21,Vallabh Vidyanagar,Consumables,3634
+E00497,2024-06-01,Vallabh Vidyanagar,Consumables,4038
+E00498,2024-06-02,Vallabh Vidyanagar,Consumables,6122
+E00499,2024-06-01,Vallabh Vidyanagar,Consumables,625
+E00500,2024-06-28,Vallabh Vidyanagar,Consumables,5110
+E00501,2024-06-07,Vallabh Vidyanagar,Maintenance,4566
+E00502,2024-06-16,Vallabh Vidyanagar,Consumables,2074
+E00503,2024-06-08,Vallabh Vidyanagar,Maintenance,1310
+E00504,2024-06-19,Vallabh Vidyanagar,Consumables,1379
+E00505,2024-06-23,Vallabh Vidyanagar,Maintenance,508
+E00506,2024-06-12,Vallabh Vidyanagar,Consumables,1667
+E00507,2024-06-12,Vallabh Vidyanagar,Consumables,7393
+E00508,2024-06-05,Vallabh Vidyanagar,Maintenance,1459
+E00509,2024-06-07,Vallabh Vidyanagar,Consumables,2450
+E00510,2024-06-20,Vallabh Vidyanagar,Consumables,3981
+E00511,2024-06-05,Vallabh Vidyanagar,Maintenance,5210
+E00512,2024-06-28,Vallabh Vidyanagar,Maintenance,4670
+E00513,2024-06-22,Vallabh Vidyanagar,Consumables,7970
+E00514,2024-06-21,Vallabh Vidyanagar,Maintenance,6594
+E00515,2024-06-21,Vallabh Vidyanagar,Consumables,2818
+E00516,2024-06-03,Vallabh Vidyanagar,Consumables,2106
+E00517,2024-06-01,Vallabh Vidyanagar,Consumables,5661
+E00518,2024-06-10,Vallabh Vidyanagar,Consumables,2511
+E00519,2024-06-01,Ahmedabad,Rent,65000
+E00520,2024-06-05,Ahmedabad,Salary,206622
+E00521,2024-06-10,Ahmedabad,Utilities,10661
+E00522,2024-06-15,Ahmedabad,Marketing,15303
+E00523,2024-06-26,Ahmedabad,Consumables,987
+E00524,2024-06-13,Ahmedabad,Maintenance,2823
+E00525,2024-06-26,Ahmedabad,Consumables,521
+E00526,2024-06-26,Ahmedabad,Consumables,2152
+E00527,2024-06-07,Ahmedabad,Consumables,5348
+E00528,2024-06-20,Ahmedabad,Maintenance,3211
+E00529,2024-06-14,Ahmedabad,Consumables,5705
+E00530,2024-06-28,Ahmedabad,Consumables,2210
+E00531,2024-06-12,Ahmedabad,Consumables,7389
+E00532,2024-06-08,Ahmedabad,Consumables,5937
+E00533,2024-06-15,Ahmedabad,Consumables,5257
+E00534,2024-06-22,Ahmedabad,Consumables,6363
+E00535,2024-06-22,Ahmedabad,Consumables,3685
+E00536,2024-06-27,Ahmedabad,Consumables,6408
+E00537,2024-06-27,Ahmedabad,Consumables,7327
+E00538,2024-06-21,Ahmedabad,Consumables,3227
+E00539,2024-06-16,Ahmedabad,Maintenance,2096
+E00540,2024-06-27,Ahmedabad,Consumables,6098
+E00541,2024-06-14,Ahmedabad,Consumables,7402
+E00542,2024-06-24,Ahmedabad,Consumables,5794
+E00543,2024-06-13,Ahmedabad,Consumables,5523
+E00544,2024-06-13,Ahmedabad,Maintenance,1745
+E00545,2024-06-12,Ahmedabad,Maintenance,501
+E00546,2024-06-11,Ahmedabad,Consumables,3109
+E00547,2024-07-01,Anand,Rent,45000
+E00548,2024-07-05,Anand,Salary,203479
+E00549,2024-07-10,Anand,Utilities,14090
+E00550,2024-07-15,Anand,Marketing,6257
+E00551,2024-07-21,Anand,Consumables,6697
+E00552,2024-07-28,Anand,Consumables,7215
+E00553,2024-07-04,Anand,Maintenance,1983
+E00554,2024-07-25,Anand,Consumables,4760
+E00555,2024-07-27,Anand,Consumables,6652
+E00556,2024-07-06,Anand,Consumables,1908
+E00557,2024-07-27,Anand,Maintenance,5836
+E00558,2024-07-21,Anand,Consumables,2912
+E00559,2024-07-07,Anand,Maintenance,6456
+E00560,2024-07-19,Anand,Consumables,1351
+E00561,2024-07-03,Anand,Consumables,5984
+E00562,2024-07-13,Anand,Maintenance,3931
+E00563,2024-07-03,Anand,Consumables,5688
+E00564,2024-07-25,Anand,Consumables,1627
+E00565,2024-07-04,Anand,Consumables,1593
+E00566,2024-07-28,Anand,Consumables,6263
+E00567,2024-07-14,Anand,Consumables,3506
+E00568,2024-07-15,Anand,Consumables,1018
+E00569,2024-07-27,Anand,Consumables,1819
+E00570,2024-07-13,Anand,Maintenance,5660
+E00571,2024-07-04,Anand,Maintenance,6771
+E00572,2024-07-12,Anand,Maintenance,5728
+E00573,2024-07-07,Anand,Consumables,1021
+E00574,2024-07-13,Anand,Consumables,2285
+E00575,2024-07-07,Anand,Consumables,7171
+E00576,2024-07-18,Anand,Consumables,5492
+E00577,2024-07-01,Vallabh Vidyanagar,Rent,40000
+E00578,2024-07-05,Vallabh Vidyanagar,Salary,232539
+E00579,2024-07-10,Vallabh Vidyanagar,Utilities,12933
+E00580,2024-07-15,Vallabh Vidyanagar,Marketing,6429
+E00581,2024-07-25,Vallabh Vidyanagar,Maintenance,2934
+E00582,2024-07-01,Vallabh Vidyanagar,Consumables,977
+E00583,2024-07-04,Vallabh Vidyanagar,Maintenance,6749
+E00584,2024-07-04,Vallabh Vidyanagar,Maintenance,3897
+E00585,2024-07-24,Vallabh Vidyanagar,Maintenance,758
+E00586,2024-07-10,Vallabh Vidyanagar,Maintenance,1029
+E00587,2024-07-15,Vallabh Vidyanagar,Maintenance,5528
+E00588,2024-07-18,Vallabh Vidyanagar,Consumables,6725
+E00589,2024-07-09,Vallabh Vidyanagar,Consumables,7155
+E00590,2024-07-13,Vallabh Vidyanagar,Consumables,3275
+E00591,2024-07-09,Vallabh Vidyanagar,Consumables,6109
+E00592,2024-07-03,Vallabh Vidyanagar,Maintenance,2705
+E00593,2024-07-09,Vallabh Vidyanagar,Consumables,7127
+E00594,2024-07-23,Vallabh Vidyanagar,Maintenance,6898
+E00595,2024-07-26,Vallabh Vidyanagar,Consumables,1978
+E00596,2024-07-09,Vallabh Vidyanagar,Consumables,3283
+E00597,2024-07-24,Vallabh Vidyanagar,Consumables,6390
+E00598,2024-07-08,Vallabh Vidyanagar,Maintenance,1541
+E00599,2024-07-16,Vallabh Vidyanagar,Consumables,3253
+E00600,2024-07-03,Vallabh Vidyanagar,Consumables,4272
+E00601,2024-07-25,Vallabh Vidyanagar,Consumables,4824
+E00602,2024-07-08,Vallabh Vidyanagar,Maintenance,3952
+E00603,2024-07-17,Vallabh Vidyanagar,Consumables,1998
+E00604,2024-07-12,Vallabh Vidyanagar,Maintenance,1183
+E00605,2024-07-01,Ahmedabad,Rent,65000
+E00606,2024-07-05,Ahmedabad,Salary,214778
+E00607,2024-07-10,Ahmedabad,Utilities,10833
+E00608,2024-07-15,Ahmedabad,Marketing,16577
+E00609,2024-07-27,Ahmedabad,Consumables,5657
+E00610,2024-07-07,Ahmedabad,Consumables,703
+E00611,2024-07-13,Ahmedabad,Consumables,3367
+E00612,2024-07-26,Ahmedabad,Consumables,2839
+E00613,2024-07-05,Ahmedabad,Consumables,7075
+E00614,2024-07-28,Ahmedabad,Consumables,4431
+E00615,2024-07-01,Ahmedabad,Consumables,4598
+E00616,2024-07-17,Ahmedabad,Consumables,2466
+E00617,2024-07-24,Ahmedabad,Consumables,2530
+E00618,2024-07-14,Ahmedabad,Maintenance,7034
+E00619,2024-07-26,Ahmedabad,Consumables,5724
+E00620,2024-07-08,Ahmedabad,Consumables,564
+E00621,2024-07-13,Ahmedabad,Maintenance,5937
+E00622,2024-07-26,Ahmedabad,Consumables,1787
+E00623,2024-07-27,Ahmedabad,Consumables,3885
+E00624,2024-07-21,Ahmedabad,Consumables,5743
+E00625,2024-07-04,Ahmedabad,Maintenance,7372
+E00626,2024-07-11,Ahmedabad,Consumables,651
+E00627,2024-07-20,Ahmedabad,Consumables,3080
+E00628,2024-07-21,Ahmedabad,Consumables,6918
+E00629,2024-07-28,Ahmedabad,Consumables,1610
+E00630,2024-07-25,Ahmedabad,Maintenance,5164
+E00631,2024-07-24,Ahmedabad,Consumables,2807
+E00632,2024-07-28,Ahmedabad,Consumables,7868
+E00633,2024-07-26,Ahmedabad,Consumables,2387
+E00634,2024-08-01,Anand,Rent,45000
+E00635,2024-08-05,Anand,Salary,231052
+E00636,2024-08-10,Anand,Utilities,14286
+E00637,2024-08-15,Anand,Marketing,5583
+E00638,2024-08-15,Anand,Consumables,4910
+E00639,2024-08-28,Anand,Consumables,1898
+E00640,2024-08-19,Anand,Consumables,5438
+E00641,2024-08-14,Anand,Consumables,3579
+E00642,2024-08-06,Anand,Consumables,6201
+E00643,2024-08-22,Anand,Maintenance,5615
+E00644,2024-08-01,Anand,Maintenance,5944
+E00645,2024-08-14,Anand,Consumables,5997
+E00646,2024-08-14,Anand,Consumables,1708
+E00647,2024-08-28,Anand,Consumables,1593
+E00648,2024-08-08,Anand,Consumables,3208
+E00649,2024-08-08,Anand,Consumables,501
+E00650,2024-08-24,Anand,Consumables,4334
+E00651,2024-08-07,Anand,Consumables,7809
+E00652,2024-08-18,Anand,Maintenance,7226
+E00653,2024-08-04,Anand,Consumables,1234
+E00654,2024-08-02,Anand,Consumables,7603
+E00655,2024-08-27,Anand,Consumables,6599
+E00656,2024-08-20,Anand,Maintenance,525
+E00657,2024-08-16,Anand,Consumables,2727
+E00658,2024-08-10,Anand,Consumables,6172
+E00659,2024-08-13,Anand,Consumables,6531
+E00660,2024-08-28,Anand,Maintenance,7626
+E00661,2024-08-06,Anand,Consumables,1881
+E00662,2024-08-20,Anand,Maintenance,5514
+E00663,2024-08-10,Anand,Consumables,5612
+E00664,2024-08-02,Anand,Consumables,2770
+E00665,2024-08-16,Anand,Consumables,776
+E00666,2024-08-01,Vallabh Vidyanagar,Rent,40000
+E00667,2024-08-05,Vallabh Vidyanagar,Salary,226326
+E00668,2024-08-10,Vallabh Vidyanagar,Utilities,8163
+E00669,2024-08-15,Vallabh Vidyanagar,Marketing,11294
+E00670,2024-08-19,Vallabh Vidyanagar,Consumables,5145
+E00671,2024-08-19,Vallabh Vidyanagar,Consumables,1758
+E00672,2024-08-27,Vallabh Vidyanagar,Consumables,1339
+E00673,2024-08-02,Vallabh Vidyanagar,Consumables,6605
+E00674,2024-08-28,Vallabh Vidyanagar,Consumables,4449
+E00675,2024-08-07,Vallabh Vidyanagar,Consumables,1424
+E00676,2024-08-16,Vallabh Vidyanagar,Maintenance,3930
+E00677,2024-08-20,Vallabh Vidyanagar,Maintenance,6812
+E00678,2024-08-01,Vallabh Vidyanagar,Consumables,1619
+E00679,2024-08-19,Vallabh Vidyanagar,Consumables,4874
+E00680,2024-08-19,Vallabh Vidyanagar,Consumables,1343
+E00681,2024-08-11,Vallabh Vidyanagar,Consumables,6596
+E00682,2024-08-15,Vallabh Vidyanagar,Consumables,4813
+E00683,2024-08-15,Vallabh Vidyanagar,Consumables,6665
+E00684,2024-08-02,Vallabh Vidyanagar,Consumables,1594
+E00685,2024-08-25,Vallabh Vidyanagar,Consumables,2604
+E00686,2024-08-17,Vallabh Vidyanagar,Consumables,2655
+E00687,2024-08-27,Vallabh Vidyanagar,Consumables,1836
+E00688,2024-08-03,Vallabh Vidyanagar,Consumables,504
+E00689,2024-08-24,Vallabh Vidyanagar,Maintenance,878
+E00690,2024-08-08,Vallabh Vidyanagar,Consumables,7332
+E00691,2024-08-03,Vallabh Vidyanagar,Consumables,2190
+E00692,2024-08-25,Vallabh Vidyanagar,Consumables,1722
+E00693,2024-08-18,Vallabh Vidyanagar,Consumables,6755
+E00694,2024-08-04,Vallabh Vidyanagar,Consumables,5901
+E00695,2024-08-07,Vallabh Vidyanagar,Maintenance,6253
+E00696,2024-08-11,Vallabh Vidyanagar,Consumables,7497
+E00697,2024-08-04,Vallabh Vidyanagar,Consumables,1408
+E00698,2024-08-01,Ahmedabad,Rent,65000
+E00699,2024-08-05,Ahmedabad,Salary,190996
+E00700,2024-08-10,Ahmedabad,Utilities,11337
+E00701,2024-08-15,Ahmedabad,Marketing,10459
+E00702,2024-08-15,Ahmedabad,Maintenance,4584
+E00703,2024-08-02,Ahmedabad,Maintenance,5983
+E00704,2024-08-02,Ahmedabad,Maintenance,5127
+E00705,2024-08-20,Ahmedabad,Consumables,3127
+E00706,2024-08-27,Ahmedabad,Consumables,7977
+E00707,2024-08-06,Ahmedabad,Consumables,3943
+E00708,2024-08-03,Ahmedabad,Consumables,1066
+E00709,2024-08-04,Ahmedabad,Consumables,2733
+E00710,2024-08-28,Ahmedabad,Consumables,7715
+E00711,2024-08-19,Ahmedabad,Consumables,3207
+E00712,2024-08-01,Ahmedabad,Consumables,7467
+E00713,2024-08-23,Ahmedabad,Consumables,2313
+E00714,2024-08-03,Ahmedabad,Consumables,4639
+E00715,2024-08-13,Ahmedabad,Consumables,7298
+E00716,2024-08-26,Ahmedabad,Consumables,2071
+E00717,2024-08-08,Ahmedabad,Consumables,645
+E00718,2024-08-11,Ahmedabad,Consumables,6418
+E00719,2024-08-21,Ahmedabad,Consumables,3433
+E00720,2024-08-02,Ahmedabad,Maintenance,1913
+E00721,2024-08-28,Ahmedabad,Consumables,5555
+E00722,2024-08-07,Ahmedabad,Consumables,4142
+E00723,2024-08-28,Ahmedabad,Maintenance,1604
+E00724,2024-08-15,Ahmedabad,Consumables,3867
+E00725,2024-08-18,Ahmedabad,Consumables,7352
+E00726,2024-08-05,Ahmedabad,Consumables,906
+E00727,2024-08-23,Ahmedabad,Consumables,6050
+E00728,2024-09-01,Anand,Rent,45000
+E00729,2024-09-05,Anand,Salary,227531
+E00730,2024-09-10,Anand,Utilities,9382
+E00731,2024-09-15,Anand,Marketing,12658
+E00732,2024-09-22,Anand,Consumables,6738
+E00733,2024-09-07,Anand,Consumables,1070
+E00734,2024-09-24,Anand,Maintenance,3276
+E00735,2024-09-12,Anand,Consumables,1889
+E00736,2024-09-15,Anand,Maintenance,7229
+E00737,2024-09-23,Anand,Consumables,4406
+E00738,2024-09-26,Anand,Consumables,6879
+E00739,2024-09-20,Anand,Maintenance,4673
+E00740,2024-09-02,Anand,Maintenance,5372
+E00741,2024-09-25,Anand,Maintenance,854
+E00742,2024-09-16,Anand,Maintenance,5157
+E00743,2024-09-08,Anand,Consumables,3040
+E00744,2024-09-13,Anand,Maintenance,1365
+E00745,2024-09-07,Anand,Consumables,1399
+E00746,2024-09-05,Anand,Maintenance,1319
+E00747,2024-09-13,Anand,Consumables,922
+E00748,2024-09-27,Anand,Consumables,7211
+E00749,2024-09-18,Anand,Consumables,5452
+E00750,2024-09-17,Anand,Consumables,618
+E00751,2024-09-09,Anand,Consumables,3441
+E00752,2024-09-22,Anand,Consumables,1085
+E00753,2024-09-04,Anand,Consumables,2759
+E00754,2024-09-04,Anand,Consumables,4015
+E00755,2024-09-27,Anand,Consumables,6704
+E00756,2024-09-12,Anand,Consumables,3784
+E00757,2024-09-01,Anand,Consumables,3848
+E00758,2024-09-15,Anand,Maintenance,4444
+E00759,2024-09-01,Vallabh Vidyanagar,Rent,40000
+E00760,2024-09-05,Vallabh Vidyanagar,Salary,203398
+E00761,2024-09-10,Vallabh Vidyanagar,Utilities,13493
+E00762,2024-09-15,Vallabh Vidyanagar,Marketing,5360
+E00763,2024-09-18,Vallabh Vidyanagar,Consumables,7626
+E00764,2024-09-16,Vallabh Vidyanagar,Maintenance,7929
+E00765,2024-09-16,Vallabh Vidyanagar,Consumables,3104
+E00766,2024-09-08,Vallabh Vidyanagar,Maintenance,1569
+E00767,2024-09-02,Vallabh Vidyanagar,Consumables,6057
+E00768,2024-09-08,Vallabh Vidyanagar,Consumables,5166
+E00769,2024-09-02,Vallabh Vidyanagar,Maintenance,2982
+E00770,2024-09-06,Vallabh Vidyanagar,Consumables,3942
+E00771,2024-09-19,Vallabh Vidyanagar,Consumables,2252
+E00772,2024-09-05,Vallabh Vidyanagar,Consumables,1988
+E00773,2024-09-09,Vallabh Vidyanagar,Consumables,6426
+E00774,2024-09-15,Vallabh Vidyanagar,Consumables,4183
+E00775,2024-09-17,Vallabh Vidyanagar,Consumables,6743
+E00776,2024-09-21,Vallabh Vidyanagar,Maintenance,3615
+E00777,2024-09-14,Vallabh Vidyanagar,Consumables,6105
+E00778,2024-09-16,Vallabh Vidyanagar,Consumables,1127
+E00779,2024-09-19,Vallabh Vidyanagar,Consumables,5069
+E00780,2024-09-15,Vallabh Vidyanagar,Maintenance,4197
+E00781,2024-09-12,Vallabh Vidyanagar,Maintenance,5132
+E00782,2024-09-18,Vallabh Vidyanagar,Consumables,1081
+E00783,2024-09-22,Vallabh Vidyanagar,Maintenance,7411
+E00784,2024-09-20,Vallabh Vidyanagar,Maintenance,5349
+E00785,2024-09-02,Vallabh Vidyanagar,Consumables,6768
+E00786,2024-09-11,Vallabh Vidyanagar,Maintenance,6140
+E00787,2024-09-22,Vallabh Vidyanagar,Maintenance,4978
+E00788,2024-09-02,Vallabh Vidyanagar,Consumables,739
+E00789,2024-09-18,Vallabh Vidyanagar,Consumables,6213
+E00790,2024-09-12,Vallabh Vidyanagar,Maintenance,3336
+E00791,2024-09-17,Vallabh Vidyanagar,Consumables,2414
+E00792,2024-09-09,Vallabh Vidyanagar,Maintenance,4865
+E00793,2024-09-01,Ahmedabad,Rent,65000
+E00794,2024-09-05,Ahmedabad,Salary,188377
+E00795,2024-09-10,Ahmedabad,Utilities,13699
+E00796,2024-09-15,Ahmedabad,Marketing,16639
+E00797,2024-09-01,Ahmedabad,Maintenance,2703
+E00798,2024-09-18,Ahmedabad,Consumables,4454
+E00799,2024-09-05,Ahmedabad,Consumables,5695
+E00800,2024-09-06,Ahmedabad,Maintenance,1711
+E00801,2024-09-19,Ahmedabad,Consumables,7184
+E00802,2024-09-19,Ahmedabad,Consumables,5479
+E00803,2024-09-16,Ahmedabad,Maintenance,6428
+E00804,2024-09-16,Ahmedabad,Consumables,3980
+E00805,2024-09-20,Ahmedabad,Consumables,7964
+E00806,2024-09-26,Ahmedabad,Consumables,3678
+E00807,2024-09-23,Ahmedabad,Consumables,2231
+E00808,2024-09-18,Ahmedabad,Maintenance,4695
+E00809,2024-09-13,Ahmedabad,Maintenance,7678
+E00810,2024-09-17,Ahmedabad,Consumables,801
+E00811,2024-09-07,Ahmedabad,Consumables,3170
+E00812,2024-09-03,Ahmedabad,Consumables,6679
+E00813,2024-09-19,Ahmedabad,Maintenance,4694
+E00814,2024-09-28,Ahmedabad,Consumables,7841
+E00815,2024-09-02,Ahmedabad,Consumables,7519
+E00816,2024-09-19,Ahmedabad,Consumables,7061
+E00817,2024-09-15,Ahmedabad,Consumables,6874
+E00818,2024-09-22,Ahmedabad,Consumables,3534
+E00819,2024-09-24,Ahmedabad,Consumables,3644
+E00820,2024-09-03,Ahmedabad,Maintenance,6743
+E00821,2024-10-01,Anand,Rent,45000
+E00822,2024-10-05,Anand,Salary,239412
+E00823,2024-10-10,Anand,Utilities,11229
+E00824,2024-10-15,Anand,Marketing,18501
+E00825,2024-10-07,Anand,Consumables,6427
+E00826,2024-10-14,Anand,Consumables,6364
+E00827,2024-10-17,Anand,Maintenance,7018
+E00828,2024-10-22,Anand,Consumables,3838
+E00829,2024-10-15,Anand,Consumables,6087
+E00830,2024-10-25,Anand,Consumables,7729
+E00831,2024-10-28,Anand,Consumables,7034
+E00832,2024-10-07,Anand,Consumables,4420
+E00833,2024-10-06,Anand,Maintenance,3118
+E00834,2024-10-08,Anand,Consumables,5803
+E00835,2024-10-19,Anand,Consumables,6147
+E00836,2024-10-20,Anand,Consumables,4888
+E00837,2024-10-24,Anand,Consumables,6351
+E00838,2024-10-15,Anand,Maintenance,5859
+E00839,2024-10-09,Anand,Maintenance,5520
+E00840,2024-10-20,Anand,Consumables,2447
+E00841,2024-10-17,Anand,Maintenance,7140
+E00842,2024-10-08,Anand,Consumables,661
+E00843,2024-10-24,Anand,Consumables,1918
+E00844,2024-10-14,Anand,Consumables,1210
+E00845,2024-10-04,Anand,Consumables,1837
+E00846,2024-10-03,Anand,Consumables,5946
+E00847,2024-10-15,Anand,Consumables,2332
+E00848,2024-10-09,Anand,Consumables,1305
+E00849,2024-10-16,Anand,Consumables,4388
+E00850,2024-10-11,Anand,Maintenance,1073
+E00851,2024-10-19,Anand,Consumables,1251
+E00852,2024-10-21,Anand,Consumables,4775
+E00853,2024-10-01,Vallabh Vidyanagar,Rent,40000
+E00854,2024-10-05,Vallabh Vidyanagar,Salary,211570
+E00855,2024-10-10,Vallabh Vidyanagar,Utilities,12735
+E00856,2024-10-15,Vallabh Vidyanagar,Marketing,12963
+E00857,2024-10-17,Vallabh Vidyanagar,Consumables,2358
+E00858,2024-10-09,Vallabh Vidyanagar,Consumables,6950
+E00859,2024-10-03,Vallabh Vidyanagar,Consumables,7995
+E00860,2024-10-03,Vallabh Vidyanagar,Maintenance,6759
+E00861,2024-10-23,Vallabh Vidyanagar,Consumables,4097
+E00862,2024-10-04,Vallabh Vidyanagar,Consumables,6319
+E00863,2024-10-27,Vallabh Vidyanagar,Consumables,960
+E00864,2024-10-14,Vallabh Vidyanagar,Consumables,5516
+E00865,2024-10-17,Vallabh Vidyanagar,Consumables,1341
+E00866,2024-10-07,Vallabh Vidyanagar,Consumables,2047
+E00867,2024-10-08,Vallabh Vidyanagar,Maintenance,1096
+E00868,2024-10-13,Vallabh Vidyanagar,Maintenance,5060
+E00869,2024-10-19,Vallabh Vidyanagar,Consumables,6743
+E00870,2024-10-20,Vallabh Vidyanagar,Consumables,6193
+E00871,2024-10-05,Vallabh Vidyanagar,Consumables,4603
+E00872,2024-10-18,Vallabh Vidyanagar,Consumables,6198
+E00873,2024-10-10,Vallabh Vidyanagar,Consumables,626
+E00874,2024-10-22,Vallabh Vidyanagar,Consumables,2099
+E00875,2024-10-27,Vallabh Vidyanagar,Maintenance,7367
+E00876,2024-10-21,Vallabh Vidyanagar,Consumables,4146
+E00877,2024-10-04,Vallabh Vidyanagar,Maintenance,5595
+E00878,2024-10-26,Vallabh Vidyanagar,Consumables,6167
+E00879,2024-10-21,Vallabh Vidyanagar,Maintenance,958
+E00880,2024-10-15,Vallabh Vidyanagar,Consumables,4681
+E00881,2024-10-26,Vallabh Vidyanagar,Consumables,7621
+E00882,2024-10-12,Vallabh Vidyanagar,Consumables,924
+E00883,2024-10-01,Ahmedabad,Rent,65000
+E00884,2024-10-05,Ahmedabad,Salary,234514
+E00885,2024-10-10,Ahmedabad,Utilities,10646
+E00886,2024-10-15,Ahmedabad,Marketing,9060
+E00887,2024-10-08,Ahmedabad,Consumables,2336
+E00888,2024-10-21,Ahmedabad,Consumables,2565
+E00889,2024-10-11,Ahmedabad,Consumables,5063
+E00890,2024-10-10,Ahmedabad,Maintenance,6957
+E00891,2024-10-01,Ahmedabad,Maintenance,3817
+E00892,2024-10-05,Ahmedabad,Consumables,7572
+E00893,2024-10-14,Ahmedabad,Consumables,7067
+E00894,2024-10-21,Ahmedabad,Consumables,4040
+E00895,2024-10-05,Ahmedabad,Consumables,7275
+E00896,2024-10-25,Ahmedabad,Consumables,3620
+E00897,2024-10-25,Ahmedabad,Consumables,4372
+E00898,2024-10-24,Ahmedabad,Consumables,2444
+E00899,2024-10-18,Ahmedabad,Consumables,1446
+E00900,2024-10-21,Ahmedabad,Consumables,2796
+E00901,2024-10-26,Ahmedabad,Maintenance,1694
+E00902,2024-10-19,Ahmedabad,Consumables,548
+E00903,2024-10-25,Ahmedabad,Consumables,1903
+E00904,2024-10-04,Ahmedabad,Consumables,1843
+E00905,2024-10-07,Ahmedabad,Consumables,694
+E00906,2024-10-08,Ahmedabad,Consumables,6082
+E00907,2024-10-08,Ahmedabad,Consumables,5268
+E00908,2024-10-23,Ahmedabad,Maintenance,1047
+E00909,2024-10-27,Ahmedabad,Consumables,518
+E00910,2024-10-01,Ahmedabad,Consumables,1300
+E00911,2024-10-14,Ahmedabad,Consumables,2971
+E00912,2024-11-01,Anand,Rent,45000
+E00913,2024-11-05,Anand,Salary,218239
+E00914,2024-11-10,Anand,Utilities,12928
+E00915,2024-11-15,Anand,Marketing,19046
+E00916,2024-11-12,Anand,Consumables,1182
+E00917,2024-11-18,Anand,Consumables,4329
+E00918,2024-11-14,Anand,Maintenance,7593
+E00919,2024-11-19,Anand,Maintenance,1801
+E00920,2024-11-17,Anand,Consumables,1459
+E00921,2024-11-25,Anand,Maintenance,3094
+E00922,2024-11-21,Anand,Consumables,4339
+E00923,2024-11-08,Anand,Consumables,2996
+E00924,2024-11-23,Anand,Maintenance,7773
+E00925,2024-11-22,Anand,Maintenance,2385
+E00926,2024-11-17,Anand,Maintenance,3431
+E00927,2024-11-07,Anand,Consumables,803
+E00928,2024-11-24,Anand,Consumables,2349
+E00929,2024-11-12,Anand,Consumables,3191
+E00930,2024-11-27,Anand,Consumables,6591
+E00931,2024-11-10,Anand,Consumables,1906
+E00932,2024-11-14,Anand,Consumables,676
+E00933,2024-11-23,Anand,Consumables,7439
+E00934,2024-11-12,Anand,Consumables,6705
+E00935,2024-11-06,Anand,Consumables,2171
+E00936,2024-11-10,Anand,Consumables,4336
+E00937,2024-11-22,Anand,Consumables,2675
+E00938,2024-11-24,Anand,Maintenance,2407
+E00939,2024-11-08,Anand,Consumables,4553
+E00940,2024-11-17,Anand,Maintenance,2360
+E00941,2024-11-05,Anand,Consumables,3370
+E00942,2024-11-16,Anand,Maintenance,7503
+E00943,2024-11-06,Anand,Consumables,6817
+E00944,2024-11-01,Vallabh Vidyanagar,Rent,40000
+E00945,2024-11-05,Vallabh Vidyanagar,Salary,227007
+E00946,2024-11-10,Vallabh Vidyanagar,Utilities,8565
+E00947,2024-11-15,Vallabh Vidyanagar,Marketing,15986
+E00948,2024-11-22,Vallabh Vidyanagar,Maintenance,1662
+E00949,2024-11-09,Vallabh Vidyanagar,Consumables,5545
+E00950,2024-11-21,Vallabh Vidyanagar,Consumables,5524
+E00951,2024-11-26,Vallabh Vidyanagar,Consumables,1341
+E00952,2024-11-24,Vallabh Vidyanagar,Consumables,1129
+E00953,2024-11-27,Vallabh Vidyanagar,Consumables,6904
+E00954,2024-11-25,Vallabh Vidyanagar,Consumables,6143
+E00955,2024-11-26,Vallabh Vidyanagar,Consumables,890
+E00956,2024-11-17,Vallabh Vidyanagar,Consumables,3243
+E00957,2024-11-20,Vallabh Vidyanagar,Consumables,7300
+E00958,2024-11-28,Vallabh Vidyanagar,Consumables,3920
+E00959,2024-11-17,Vallabh Vidyanagar,Consumables,6818
+E00960,2024-11-26,Vallabh Vidyanagar,Consumables,4318
+E00961,2024-11-09,Vallabh Vidyanagar,Maintenance,7625
+E00962,2024-11-12,Vallabh Vidyanagar,Consumables,7310
+E00963,2024-11-01,Vallabh Vidyanagar,Maintenance,931
+E00964,2024-11-11,Vallabh Vidyanagar,Consumables,1543
+E00965,2024-11-20,Vallabh Vidyanagar,Consumables,5465
+E00966,2024-11-11,Vallabh Vidyanagar,Consumables,1024
+E00967,2024-11-16,Vallabh Vidyanagar,Maintenance,6146
+E00968,2024-11-15,Vallabh Vidyanagar,Consumables,6099
+E00969,2024-11-13,Vallabh Vidyanagar,Consumables,7667
+E00970,2024-11-05,Vallabh Vidyanagar,Maintenance,1619
+E00971,2024-11-01,Vallabh Vidyanagar,Maintenance,7426
+E00972,2024-11-11,Vallabh Vidyanagar,Consumables,3928
+E00973,2024-11-01,Ahmedabad,Rent,65000
+E00974,2024-11-05,Ahmedabad,Salary,180795
+E00975,2024-11-10,Ahmedabad,Utilities,8720
+E00976,2024-11-15,Ahmedabad,Marketing,16614
+E00977,2024-11-26,Ahmedabad,Consumables,2128
+E00978,2024-11-18,Ahmedabad,Consumables,3449
+E00979,2024-11-20,Ahmedabad,Consumables,7146
+E00980,2024-11-14,Ahmedabad,Consumables,5881
+E00981,2024-11-07,Ahmedabad,Consumables,1644
+E00982,2024-11-23,Ahmedabad,Maintenance,1346
+E00983,2024-11-14,Ahmedabad,Maintenance,3564
+E00984,2024-11-05,Ahmedabad,Consumables,3320
+E00985,2024-11-28,Ahmedabad,Consumables,3833
+E00986,2024-11-04,Ahmedabad,Maintenance,3153
+E00987,2024-11-28,Ahmedabad,Maintenance,6077
+E00988,2024-11-07,Ahmedabad,Consumables,1448
+E00989,2024-11-09,Ahmedabad,Consumables,2470
+E00990,2024-11-13,Ahmedabad,Consumables,6875
+E00991,2024-11-12,Ahmedabad,Consumables,2278
+E00992,2024-11-23,Ahmedabad,Consumables,4988
+E00993,2024-11-18,Ahmedabad,Consumables,2002
+E00994,2024-11-13,Ahmedabad,Consumables,4661
+E00995,2024-11-08,Ahmedabad,Consumables,4053
+E00996,2024-11-10,Ahmedabad,Maintenance,1241
+E00997,2024-11-18,Ahmedabad,Consumables,4202
+E00998,2024-11-21,Ahmedabad,Maintenance,3151
+E00999,2024-11-24,Ahmedabad,Consumables,4277
+E01000,2024-11-03,Ahmedabad,Maintenance,5204
+E01001,2024-11-06,Ahmedabad,Maintenance,4800
+E01002,2024-11-24,Ahmedabad,Consumables,1725
+E01003,2024-11-22,Ahmedabad,Consumables,5192
+E01004,2024-12-01,Anand,Rent,45000
+E01005,2024-12-05,Anand,Salary,186546
+E01006,2024-12-10,Anand,Utilities,10486
+E01007,2024-12-15,Anand,Marketing,9341
+E01008,2024-12-01,Anand,Consumables,6664
+E01009,2024-12-10,Anand,Consumables,4405
+E01010,2024-12-10,Anand,Consumables,953
+E01011,2024-12-25,Anand,Consumables,653
+E01012,2024-12-13,Anand,Consumables,4373
+E01013,2024-12-06,Anand,Consumables,2108
+E01014,2024-12-01,Anand,Consumables,7380
+E01015,2024-12-06,Anand,Consumables,927
+E01016,2024-12-28,Anand,Maintenance,1657
+E01017,2024-12-09,Anand,Maintenance,5386
+E01018,2024-12-19,Anand,Consumables,4044
+E01019,2024-12-16,Anand,Consumables,1651
+E01020,2024-12-01,Anand,Consumables,2678
+E01021,2024-12-05,Anand,Maintenance,5426
+E01022,2024-12-21,Anand,Consumables,1818
+E01023,2024-12-26,Anand,Consumables,3801
+E01024,2024-12-26,Anand,Maintenance,1050
+E01025,2024-12-10,Anand,Consumables,6015
+E01026,2024-12-14,Anand,Consumables,3171
+E01027,2024-12-13,Anand,Consumables,5885
+E01028,2024-12-11,Anand,Consumables,6227
+E01029,2024-12-19,Anand,Maintenance,2510
+E01030,2024-12-01,Anand,Maintenance,6465
+E01031,2024-12-07,Anand,Consumables,1433
+E01032,2024-12-12,Anand,Consumables,7679
+E01033,2024-12-01,Vallabh Vidyanagar,Rent,40000
+E01034,2024-12-05,Vallabh Vidyanagar,Salary,207856
+E01035,2024-12-10,Vallabh Vidyanagar,Utilities,8153
+E01036,2024-12-15,Vallabh Vidyanagar,Marketing,15420
+E01037,2024-12-25,Vallabh Vidyanagar,Consumables,5875
+E01038,2024-12-25,Vallabh Vidyanagar,Maintenance,1356
+E01039,2024-12-05,Vallabh Vidyanagar,Maintenance,7057
+E01040,2024-12-09,Vallabh Vidyanagar,Consumables,7725
+E01041,2024-12-25,Vallabh Vidyanagar,Consumables,7552
+E01042,2024-12-22,Vallabh Vidyanagar,Maintenance,6238
+E01043,2024-12-19,Vallabh Vidyanagar,Consumables,599
+E01044,2024-12-10,Vallabh Vidyanagar,Consumables,4210
+E01045,2024-12-22,Vallabh Vidyanagar,Maintenance,5528
+E01046,2024-12-04,Vallabh Vidyanagar,Maintenance,7068
+E01047,2024-12-07,Vallabh Vidyanagar,Consumables,5882
+E01048,2024-12-22,Vallabh Vidyanagar,Consumables,695
+E01049,2024-12-22,Vallabh Vidyanagar,Consumables,7803
+E01050,2024-12-22,Vallabh Vidyanagar,Maintenance,3920
+E01051,2024-12-15,Vallabh Vidyanagar,Maintenance,2246
+E01052,2024-12-16,Vallabh Vidyanagar,Consumables,7140
+E01053,2024-12-12,Vallabh Vidyanagar,Consumables,3129
+E01054,2024-12-22,Vallabh Vidyanagar,Consumables,4675
+E01055,2024-12-21,Vallabh Vidyanagar,Maintenance,4197
+E01056,2024-12-25,Vallabh Vidyanagar,Consumables,2946
+E01057,2024-12-26,Vallabh Vidyanagar,Consumables,6145
+E01058,2024-12-23,Vallabh Vidyanagar,Consumables,3233
+E01059,2024-12-12,Vallabh Vidyanagar,Consumables,1725
+E01060,2024-12-09,Vallabh Vidyanagar,Consumables,4458
+E01061,2024-12-17,Vallabh Vidyanagar,Consumables,2930
+E01062,2024-12-01,Ahmedabad,Rent,65000
+E01063,2024-12-05,Ahmedabad,Salary,232569
+E01064,2024-12-10,Ahmedabad,Utilities,13709
+E01065,2024-12-15,Ahmedabad,Marketing,9560
+E01066,2024-12-16,Ahmedabad,Consumables,3398
+E01067,2024-12-18,Ahmedabad,Consumables,7263
+E01068,2024-12-27,Ahmedabad,Maintenance,1050
+E01069,2024-12-01,Ahmedabad,Consumables,6749
+E01070,2024-12-13,Ahmedabad,Maintenance,6076
+E01071,2024-12-10,Ahmedabad,Consumables,3977
+E01072,2024-12-28,Ahmedabad,Consumables,1436
+E01073,2024-12-05,Ahmedabad,Consumables,4930
+E01074,2024-12-17,Ahmedabad,Maintenance,736
+E01075,2024-12-13,Ahmedabad,Consumables,7134
+E01076,2024-12-06,Ahmedabad,Consumables,7457
+E01077,2024-12-18,Ahmedabad,Consumables,2630
+E01078,2024-12-26,Ahmedabad,Consumables,3233
+E01079,2024-12-14,Ahmedabad,Consumables,6140
+E01080,2024-12-11,Ahmedabad,Maintenance,1941
+E01081,2024-12-10,Ahmedabad,Maintenance,5612
+E01082,2024-12-17,Ahmedabad,Consumables,6352
+E01083,2024-12-19,Ahmedabad,Consumables,510
+E01084,2024-12-06,Ahmedabad,Consumables,2180
+E01085,2024-12-27,Ahmedabad,Consumables,1220
+E01086,2024-12-11,Ahmedabad,Consumables,7400
+E01087,2024-12-24,Ahmedabad,Consumables,7071
+E01088,2024-12-11,Ahmedabad,Consumables,7060
+E01089,2024-12-19,Ahmedabad,Consumables,6510
+E01090,2025-01-01,Anand,Rent,45000
+E01091,2025-01-05,Anand,Salary,206914
+E01092,2025-01-10,Anand,Utilities,14603
+E01093,2025-01-15,Anand,Marketing,17602
+E01094,2025-01-26,Anand,Consumables,977
+E01095,2025-01-03,Anand,Consumables,1681
+E01096,2025-01-09,Anand,Consumables,954
+E01097,2025-01-07,Anand,Maintenance,5626
+E01098,2025-01-25,Anand,Consumables,781
+E01099,2025-01-28,Anand,Consumables,5608
+E01100,2025-01-20,Anand,Consumables,7720
+E01101,2025-01-10,Anand,Consumables,2134
+E01102,2025-01-10,Anand,Consumables,7256
+E01103,2025-01-25,Anand,Consumables,6612
+E01104,2025-01-08,Anand,Consumables,5196
+E01105,2025-01-10,Anand,Consumables,5447
+E01106,2025-01-04,Anand,Consumables,5041
+E01107,2025-01-12,Anand,Consumables,6683
+E01108,2025-01-05,Anand,Maintenance,1909
+E01109,2025-01-17,Anand,Consumables,4938
+E01110,2025-01-13,Anand,Consumables,2517
+E01111,2025-01-14,Anand,Consumables,3977
+E01112,2025-01-18,Anand,Consumables,5095
+E01113,2025-01-02,Anand,Consumables,2256
+E01114,2025-01-03,Anand,Consumables,4769
+E01115,2025-01-20,Anand,Consumables,3726
+E01116,2025-01-06,Anand,Maintenance,5826
+E01117,2025-01-15,Anand,Consumables,5523
+E01118,2025-01-08,Anand,Consumables,2012
+E01119,2025-01-16,Anand,Consumables,2114
+E01120,2025-01-01,Vallabh Vidyanagar,Rent,40000
+E01121,2025-01-05,Vallabh Vidyanagar,Salary,216717
+E01122,2025-01-10,Vallabh Vidyanagar,Utilities,10895
+E01123,2025-01-15,Vallabh Vidyanagar,Marketing,8203
+E01124,2025-01-19,Vallabh Vidyanagar,Consumables,783
+E01125,2025-01-03,Vallabh Vidyanagar,Consumables,1569
+E01126,2025-01-05,Vallabh Vidyanagar,Consumables,4567
+E01127,2025-01-25,Vallabh Vidyanagar,Consumables,2214
+E01128,2025-01-24,Vallabh Vidyanagar,Consumables,4691
+E01129,2025-01-13,Vallabh Vidyanagar,Consumables,1833
+E01130,2025-01-01,Vallabh Vidyanagar,Maintenance,5079
+E01131,2025-01-26,Vallabh Vidyanagar,Maintenance,5162
+E01132,2025-01-14,Vallabh Vidyanagar,Consumables,6359
+E01133,2025-01-26,Vallabh Vidyanagar,Consumables,2929
+E01134,2025-01-09,Vallabh Vidyanagar,Consumables,609
+E01135,2025-01-14,Vallabh Vidyanagar,Consumables,1079
+E01136,2025-01-18,Vallabh Vidyanagar,Maintenance,4786
+E01137,2025-01-02,Vallabh Vidyanagar,Maintenance,2791
+E01138,2025-01-18,Vallabh Vidyanagar,Consumables,5775
+E01139,2025-01-24,Vallabh Vidyanagar,Consumables,6860
+E01140,2025-01-08,Vallabh Vidyanagar,Consumables,5845
+E01141,2025-01-03,Vallabh Vidyanagar,Consumables,4149
+E01142,2025-01-28,Vallabh Vidyanagar,Consumables,7734
+E01143,2025-01-16,Vallabh Vidyanagar,Consumables,552
+E01144,2025-01-20,Vallabh Vidyanagar,Consumables,7232
+E01145,2025-01-22,Vallabh Vidyanagar,Consumables,3348
+E01146,2025-01-05,Vallabh Vidyanagar,Maintenance,4049
+E01147,2025-01-12,Vallabh Vidyanagar,Consumables,7817
+E01148,2025-01-17,Vallabh Vidyanagar,Consumables,2975
+E01149,2025-01-26,Vallabh Vidyanagar,Maintenance,3986
+E01150,2025-01-02,Vallabh Vidyanagar,Consumables,3994
+E01151,2025-01-27,Vallabh Vidyanagar,Consumables,3082
+E01152,2025-01-23,Vallabh Vidyanagar,Consumables,4100
+E01153,2025-01-01,Ahmedabad,Rent,65000
+E01154,2025-01-05,Ahmedabad,Salary,234422
+E01155,2025-01-10,Ahmedabad,Utilities,9860
+E01156,2025-01-15,Ahmedabad,Marketing,14308
+E01157,2025-01-03,Ahmedabad,Consumables,7913
+E01158,2025-01-11,Ahmedabad,Consumables,6369
+E01159,2025-01-13,Ahmedabad,Consumables,4450
+E01160,2025-01-05,Ahmedabad,Consumables,1857
+E01161,2025-01-25,Ahmedabad,Consumables,5827
+E01162,2025-01-24,Ahmedabad,Consumables,7571
+E01163,2025-01-10,Ahmedabad,Maintenance,7975
+E01164,2025-01-17,Ahmedabad,Consumables,5868
+E01165,2025-01-06,Ahmedabad,Consumables,4632
+E01166,2025-01-19,Ahmedabad,Consumables,3998
+E01167,2025-01-17,Ahmedabad,Consumables,1925
+E01168,2025-01-07,Ahmedabad,Maintenance,2150
+E01169,2025-01-16,Ahmedabad,Consumables,1553
+E01170,2025-01-05,Ahmedabad,Consumables,4046
+E01171,2025-01-26,Ahmedabad,Maintenance,4363
+E01172,2025-01-12,Ahmedabad,Consumables,7030
+E01173,2025-01-01,Ahmedabad,Consumables,4957
+E01174,2025-01-08,Ahmedabad,Consumables,2970
+E01175,2025-01-05,Ahmedabad,Consumables,4476
+E01176,2025-01-01,Ahmedabad,Consumables,7078
+E01177,2025-01-04,Ahmedabad,Maintenance,6837
+E01178,2025-01-15,Ahmedabad,Consumables,4661
+E01179,2025-01-17,Ahmedabad,Consumables,7516
+E01180,2025-01-05,Ahmedabad,Consumables,7917
+E01181,2025-01-24,Ahmedabad,Maintenance,6764
+E01182,2025-01-20,Ahmedabad,Consumables,7425
+E01183,2025-01-05,Ahmedabad,Consumables,2207
+E01184,2025-01-24,Ahmedabad,Consumables,5282
+E01185,2025-02-01,Anand,Rent,45000
+E01186,2025-02-05,Anand,Salary,183034
+E01187,2025-02-10,Anand,Utilities,14564
+E01188,2025-02-15,Anand,Marketing,12145
+E01189,2025-02-12,Anand,Consumables,6190
+E01190,2025-02-09,Anand,Consumables,4514
+E01191,2025-02-09,Anand,Consumables,2721
+E01192,2025-02-11,Anand,Consumables,5891
+E01193,2025-02-22,Anand,Consumables,2245
+E01194,2025-02-17,Anand,Consumables,5374
+E01195,2025-02-09,Anand,Consumables,5654
+E01196,2025-02-14,Anand,Consumables,1386
+E01197,2025-02-02,Anand,Consumables,6620
+E01198,2025-02-06,Anand,Maintenance,6608
+E01199,2025-02-13,Anand,Consumables,3855
+E01200,2025-02-15,Anand,Consumables,1928
+E01201,2025-02-06,Anand,Consumables,2931
+E01202,2025-02-24,Anand,Consumables,7749
+E01203,2025-02-02,Anand,Consumables,5673
+E01204,2025-02-12,Anand,Maintenance,707
+E01205,2025-02-22,Anand,Maintenance,4363
+E01206,2025-02-14,Anand,Consumables,713
+E01207,2025-02-21,Anand,Consumables,4098
+E01208,2025-02-13,Anand,Maintenance,5869
+E01209,2025-02-03,Anand,Consumables,6150
+E01210,2025-02-25,Anand,Maintenance,785
+E01211,2025-02-20,Anand,Consumables,2743
+E01212,2025-02-14,Anand,Consumables,5555
+E01213,2025-02-01,Anand,Consumables,3805
+E01214,2025-02-08,Anand,Consumables,1257
+E01215,2025-02-05,Anand,Consumables,5490
+E01216,2025-02-01,Vallabh Vidyanagar,Rent,40000
+E01217,2025-02-05,Vallabh Vidyanagar,Salary,205720
+E01218,2025-02-10,Vallabh Vidyanagar,Utilities,11767
+E01219,2025-02-15,Vallabh Vidyanagar,Marketing,6130
+E01220,2025-02-18,Vallabh Vidyanagar,Consumables,7304
+E01221,2025-02-02,Vallabh Vidyanagar,Maintenance,6708
+E01222,2025-02-17,Vallabh Vidyanagar,Maintenance,5857
+E01223,2025-02-03,Vallabh Vidyanagar,Consumables,1409
+E01224,2025-02-12,Vallabh Vidyanagar,Maintenance,2805
+E01225,2025-02-09,Vallabh Vidyanagar,Consumables,1844
+E01226,2025-02-26,Vallabh Vidyanagar,Consumables,4163
+E01227,2025-02-16,Vallabh Vidyanagar,Consumables,7170
+E01228,2025-02-08,Vallabh Vidyanagar,Maintenance,6143
+E01229,2025-02-25,Vallabh Vidyanagar,Consumables,5355
+E01230,2025-02-01,Vallabh Vidyanagar,Consumables,4629
+E01231,2025-02-24,Vallabh Vidyanagar,Maintenance,1634
+E01232,2025-02-11,Vallabh Vidyanagar,Maintenance,1052
+E01233,2025-02-12,Vallabh Vidyanagar,Consumables,4212
+E01234,2025-02-05,Vallabh Vidyanagar,Consumables,2124
+E01235,2025-02-22,Vallabh Vidyanagar,Maintenance,1673
+E01236,2025-02-23,Vallabh Vidyanagar,Consumables,3078
+E01237,2025-02-04,Vallabh Vidyanagar,Maintenance,1702
+E01238,2025-02-01,Vallabh Vidyanagar,Consumables,5864
+E01239,2025-02-19,Vallabh Vidyanagar,Consumables,6378
+E01240,2025-02-04,Vallabh Vidyanagar,Maintenance,3310
+E01241,2025-02-25,Vallabh Vidyanagar,Consumables,4541
+E01242,2025-02-17,Vallabh Vidyanagar,Consumables,6130
+E01243,2025-02-28,Vallabh Vidyanagar,Consumables,1710
+E01244,2025-02-20,Vallabh Vidyanagar,Maintenance,868
+E01245,2025-02-21,Vallabh Vidyanagar,Maintenance,613
+E01246,2025-02-25,Vallabh Vidyanagar,Consumables,3998
+E01247,2025-02-07,Vallabh Vidyanagar,Consumables,1803
+E01248,2025-02-20,Vallabh Vidyanagar,Consumables,1194
+E01249,2025-02-03,Vallabh Vidyanagar,Consumables,719
+E01250,2025-02-01,Ahmedabad,Rent,65000
+E01251,2025-02-05,Ahmedabad,Salary,186813
+E01252,2025-02-10,Ahmedabad,Utilities,10707
+E01253,2025-02-15,Ahmedabad,Marketing,14896
+E01254,2025-02-01,Ahmedabad,Consumables,2056
+E01255,2025-02-12,Ahmedabad,Consumables,3162
+E01256,2025-02-02,Ahmedabad,Consumables,3512
+E01257,2025-02-12,Ahmedabad,Consumables,5704
+E01258,2025-02-22,Ahmedabad,Consumables,2265
+E01259,2025-02-05,Ahmedabad,Consumables,4380
+E01260,2025-02-03,Ahmedabad,Consumables,6408
+E01261,2025-02-12,Ahmedabad,Consumables,6275
+E01262,2025-02-26,Ahmedabad,Consumables,4656
+E01263,2025-02-04,Ahmedabad,Consumables,1276
+E01264,2025-02-08,Ahmedabad,Consumables,7795
+E01265,2025-02-23,Ahmedabad,Consumables,2120
+E01266,2025-02-20,Ahmedabad,Consumables,4660
+E01267,2025-02-06,Ahmedabad,Consumables,4625
+E01268,2025-02-13,Ahmedabad,Consumables,7505
+E01269,2025-02-25,Ahmedabad,Consumables,5825
+E01270,2025-02-06,Ahmedabad,Maintenance,7914
+E01271,2025-02-09,Ahmedabad,Consumables,4550
+E01272,2025-02-12,Ahmedabad,Consumables,1427
+E01273,2025-02-22,Ahmedabad,Maintenance,3050
+E01274,2025-02-18,Ahmedabad,Consumables,6084
+E01275,2025-02-01,Ahmedabad,Maintenance,2229
+E01276,2025-02-07,Ahmedabad,Consumables,2331
+E01277,2025-02-14,Ahmedabad,Consumables,4310
+E01278,2025-02-27,Ahmedabad,Consumables,5501
+E01279,2025-02-03,Ahmedabad,Consumables,4768
+E01280,2025-02-02,Ahmedabad,Maintenance,5718
+E01281,2025-03-01,Anand,Rent,45000
+E01282,2025-03-05,Anand,Salary,197001
+E01283,2025-03-10,Anand,Utilities,8125
+E01284,2025-03-15,Anand,Marketing,10727
+E01285,2025-03-02,Anand,Consumables,3872
+E01286,2025-03-24,Anand,Consumables,2273
+E01287,2025-03-26,Anand,Maintenance,2305
+E01288,2025-03-24,Anand,Consumables,3277
+E01289,2025-03-21,Anand,Consumables,7961
+E01290,2025-03-22,Anand,Consumables,7967
+E01291,2025-03-13,Anand,Consumables,4285
+E01292,2025-03-28,Anand,Consumables,4162
+E01293,2025-03-17,Anand,Consumables,5352
+E01294,2025-03-07,Anand,Maintenance,1509
+E01295,2025-03-27,Anand,Consumables,3368
+E01296,2025-03-08,Anand,Consumables,7700
+E01297,2025-03-04,Anand,Consumables,623
+E01298,2025-03-11,Anand,Maintenance,7775
+E01299,2025-03-16,Anand,Consumables,1336
+E01300,2025-03-15,Anand,Consumables,4057
+E01301,2025-03-01,Anand,Consumables,5200
+E01302,2025-03-13,Anand,Maintenance,2880
+E01303,2025-03-09,Anand,Consumables,7060
+E01304,2025-03-03,Anand,Consumables,1535
+E01305,2025-03-17,Anand,Consumables,4843
+E01306,2025-03-13,Anand,Consumables,1926
+E01307,2025-03-03,Anand,Maintenance,1377
+E01308,2025-03-12,Anand,Maintenance,2691
+E01309,2025-03-16,Anand,Consumables,4421
+E01310,2025-03-21,Anand,Consumables,5215
+E01311,2025-03-27,Anand,Consumables,4092
+E01312,2025-03-01,Vallabh Vidyanagar,Rent,40000
+E01313,2025-03-05,Vallabh Vidyanagar,Salary,209847
+E01314,2025-03-10,Vallabh Vidyanagar,Utilities,10818
+E01315,2025-03-15,Vallabh Vidyanagar,Marketing,6774
+E01316,2025-03-22,Vallabh Vidyanagar,Consumables,633
+E01317,2025-03-12,Vallabh Vidyanagar,Consumables,7162
+E01318,2025-03-26,Vallabh Vidyanagar,Maintenance,5455
+E01319,2025-03-06,Vallabh Vidyanagar,Consumables,5496
+E01320,2025-03-02,Vallabh Vidyanagar,Maintenance,3272
+E01321,2025-03-05,Vallabh Vidyanagar,Maintenance,7455
+E01322,2025-03-10,Vallabh Vidyanagar,Maintenance,914
+E01323,2025-03-12,Vallabh Vidyanagar,Consumables,4965
+E01324,2025-03-19,Vallabh Vidyanagar,Maintenance,2261
+E01325,2025-03-10,Vallabh Vidyanagar,Consumables,7461
+E01326,2025-03-11,Vallabh Vidyanagar,Consumables,5589
+E01327,2025-03-01,Vallabh Vidyanagar,Consumables,6044
+E01328,2025-03-08,Vallabh Vidyanagar,Consumables,662
+E01329,2025-03-26,Vallabh Vidyanagar,Consumables,7773
+E01330,2025-03-12,Vallabh Vidyanagar,Maintenance,4845
+E01331,2025-03-07,Vallabh Vidyanagar,Consumables,7612
+E01332,2025-03-12,Vallabh Vidyanagar,Consumables,5161
+E01333,2025-03-22,Vallabh Vidyanagar,Consumables,2102
+E01334,2025-03-13,Vallabh Vidyanagar,Consumables,6937
+E01335,2025-03-23,Vallabh Vidyanagar,Consumables,4877
+E01336,2025-03-20,Vallabh Vidyanagar,Consumables,7437
+E01337,2025-03-16,Vallabh Vidyanagar,Consumables,5383
+E01338,2025-03-07,Vallabh Vidyanagar,Consumables,4306
+E01339,2025-03-26,Vallabh Vidyanagar,Consumables,4385
+E01340,2025-03-06,Vallabh Vidyanagar,Consumables,2736
+E01341,2025-03-05,Vallabh Vidyanagar,Consumables,3451
+E01342,2025-03-15,Vallabh Vidyanagar,Consumables,1781
+E01343,2025-03-13,Vallabh Vidyanagar,Maintenance,2751
+E01344,2025-03-22,Vallabh Vidyanagar,Consumables,5003
+E01345,2025-03-01,Ahmedabad,Rent,65000
+E01346,2025-03-05,Ahmedabad,Salary,214786
+E01347,2025-03-10,Ahmedabad,Utilities,11783
+E01348,2025-03-15,Ahmedabad,Marketing,17319
+E01349,2025-03-05,Ahmedabad,Consumables,3733
+E01350,2025-03-10,Ahmedabad,Consumables,1941
+E01351,2025-03-04,Ahmedabad,Maintenance,5713
+E01352,2025-03-13,Ahmedabad,Consumables,3261
+E01353,2025-03-18,Ahmedabad,Consumables,7166
+E01354,2025-03-27,Ahmedabad,Maintenance,1551
+E01355,2025-03-25,Ahmedabad,Consumables,1565
+E01356,2025-03-26,Ahmedabad,Consumables,2952
+E01357,2025-03-04,Ahmedabad,Maintenance,5798
+E01358,2025-03-10,Ahmedabad,Consumables,1333
+E01359,2025-03-21,Ahmedabad,Maintenance,1697
+E01360,2025-03-07,Ahmedabad,Consumables,5703
+E01361,2025-03-05,Ahmedabad,Consumables,5306
+E01362,2025-03-23,Ahmedabad,Maintenance,6214
+E01363,2025-03-13,Ahmedabad,Consumables,6029
+E01364,2025-03-25,Ahmedabad,Consumables,4722
+E01365,2025-03-27,Ahmedabad,Consumables,6278
+E01366,2025-03-01,Ahmedabad,Consumables,1127
+E01367,2025-03-03,Ahmedabad,Consumables,852
+E01368,2025-03-24,Ahmedabad,Consumables,7540
+E01369,2025-03-08,Ahmedabad,Consumables,6547
+E01370,2025-03-08,Ahmedabad,Consumables,5583
+E01371,2025-03-27,Ahmedabad,Maintenance,1704
+E01372,2025-03-13,Ahmedabad,Consumables,5077
+E01373,2025-03-20,Ahmedabad,Consumables,5106
+E01374,2025-04-01,Anand,Rent,45000
+E01375,2025-04-05,Anand,Salary,212212
+E01376,2025-04-10,Anand,Utilities,10947
+E01377,2025-04-15,Anand,Marketing,18055
+E01378,2025-04-09,Anand,Maintenance,5102
+E01379,2025-04-13,Anand,Consumables,5739
+E01380,2025-04-07,Anand,Consumables,6676
+E01381,2025-04-07,Anand,Maintenance,7301
+E01382,2025-04-17,Anand,Consumables,5860
+E01383,2025-04-16,Anand,Consumables,981
+E01384,2025-04-27,Anand,Consumables,5429
+E01385,2025-04-26,Anand,Consumables,7237
+E01386,2025-04-17,Anand,Consumables,609
+E01387,2025-04-07,Anand,Consumables,1954
+E01388,2025-04-12,Anand,Consumables,1108
+E01389,2025-04-22,Anand,Consumables,6949
+E01390,2025-04-05,Anand,Consumables,817
+E01391,2025-04-26,Anand,Maintenance,525
+E01392,2025-04-15,Anand,Maintenance,741
+E01393,2025-04-27,Anand,Consumables,2192
+E01394,2025-04-08,Anand,Consumables,2315
+E01395,2025-04-28,Anand,Consumables,6506
+E01396,2025-04-18,Anand,Maintenance,3932
+E01397,2025-04-18,Anand,Consumables,3528
+E01398,2025-04-02,Anand,Consumables,4989
+E01399,2025-04-25,Anand,Consumables,2769
+E01400,2025-04-15,Anand,Consumables,2189
+E01401,2025-04-27,Anand,Consumables,663
+E01402,2025-04-13,Anand,Consumables,4246
+E01403,2025-04-06,Anand,Maintenance,2482
+E01404,2025-04-10,Anand,Consumables,6153
+E01405,2025-04-27,Anand,Consumables,6699
+E01406,2025-04-28,Anand,Consumables,1839
+E01407,2025-04-20,Anand,Consumables,7794
+E01408,2025-04-01,Vallabh Vidyanagar,Rent,40000
+E01409,2025-04-05,Vallabh Vidyanagar,Salary,188421
+E01410,2025-04-10,Vallabh Vidyanagar,Utilities,10682
+E01411,2025-04-15,Vallabh Vidyanagar,Marketing,11050
+E01412,2025-04-01,Vallabh Vidyanagar,Maintenance,2080
+E01413,2025-04-26,Vallabh Vidyanagar,Maintenance,6243
+E01414,2025-04-24,Vallabh Vidyanagar,Maintenance,2327
+E01415,2025-04-18,Vallabh Vidyanagar,Maintenance,4183
+E01416,2025-04-06,Vallabh Vidyanagar,Consumables,762
+E01417,2025-04-16,Vallabh Vidyanagar,Maintenance,7770
+E01418,2025-04-04,Vallabh Vidyanagar,Consumables,7064
+E01419,2025-04-10,Vallabh Vidyanagar,Maintenance,2099
+E01420,2025-04-27,Vallabh Vidyanagar,Maintenance,3188
+E01421,2025-04-05,Vallabh Vidyanagar,Consumables,4195
+E01422,2025-04-16,Vallabh Vidyanagar,Maintenance,3693
+E01423,2025-04-19,Vallabh Vidyanagar,Consumables,3334
+E01424,2025-04-08,Vallabh Vidyanagar,Maintenance,3557
+E01425,2025-04-15,Vallabh Vidyanagar,Maintenance,6420
+E01426,2025-04-04,Vallabh Vidyanagar,Consumables,6387
+E01427,2025-04-14,Vallabh Vidyanagar,Maintenance,2202
+E01428,2025-04-19,Vallabh Vidyanagar,Consumables,6508
+E01429,2025-04-26,Vallabh Vidyanagar,Consumables,953
+E01430,2025-04-08,Vallabh Vidyanagar,Maintenance,891
+E01431,2025-04-13,Vallabh Vidyanagar,Maintenance,4326
+E01432,2025-04-25,Vallabh Vidyanagar,Consumables,5989
+E01433,2025-04-08,Vallabh Vidyanagar,Consumables,7009
+E01434,2025-04-07,Vallabh Vidyanagar,Consumables,3094
+E01435,2025-04-27,Vallabh Vidyanagar,Maintenance,4110
+E01436,2025-04-01,Vallabh Vidyanagar,Consumables,7313
+E01437,2025-04-27,Vallabh Vidyanagar,Maintenance,2309
+E01438,2025-04-06,Vallabh Vidyanagar,Consumables,5034
+E01439,2025-04-07,Vallabh Vidyanagar,Maintenance,5500
+E01440,2025-04-04,Vallabh Vidyanagar,Consumables,4967
+E01441,2025-04-06,Vallabh Vidyanagar,Maintenance,2235
+E01442,2025-04-01,Ahmedabad,Rent,65000
+E01443,2025-04-05,Ahmedabad,Salary,193770
+E01444,2025-04-10,Ahmedabad,Utilities,11345
+E01445,2025-04-15,Ahmedabad,Marketing,16281
+E01446,2025-04-05,Ahmedabad,Consumables,5926
+E01447,2025-04-05,Ahmedabad,Consumables,6399
+E01448,2025-04-28,Ahmedabad,Maintenance,4847
+E01449,2025-04-12,Ahmedabad,Consumables,3342
+E01450,2025-04-06,Ahmedabad,Consumables,2203
+E01451,2025-04-17,Ahmedabad,Consumables,5351
+E01452,2025-04-25,Ahmedabad,Consumables,7298
+E01453,2025-04-11,Ahmedabad,Consumables,7096
+E01454,2025-04-24,Ahmedabad,Consumables,5216
+E01455,2025-04-16,Ahmedabad,Consumables,5220
+E01456,2025-04-02,Ahmedabad,Consumables,5842
+E01457,2025-04-26,Ahmedabad,Maintenance,2327
+E01458,2025-04-12,Ahmedabad,Consumables,5217
+E01459,2025-04-06,Ahmedabad,Consumables,1735
+E01460,2025-04-19,Ahmedabad,Consumables,1522
+E01461,2025-04-11,Ahmedabad,Consumables,7215
+E01462,2025-04-18,Ahmedabad,Consumables,2429
+E01463,2025-04-18,Ahmedabad,Maintenance,6946
+E01464,2025-04-04,Ahmedabad,Consumables,7887
+E01465,2025-04-04,Ahmedabad,Consumables,5282
+E01466,2025-04-23,Ahmedabad,Maintenance,6180
+E01467,2025-04-22,Ahmedabad,Consumables,4488
+E01468,2025-04-27,Ahmedabad,Maintenance,6453
+E01469,2025-04-04,Ahmedabad,Consumables,7784
+E01470,2025-04-04,Ahmedabad,Maintenance,1712
+E01471,2025-04-04,Ahmedabad,Consumables,1712
+E01472,2025-04-28,Ahmedabad,Consumables,3134
+E01473,2025-04-27,Ahmedabad,Consumables,4727
+E01474,2025-04-27,Ahmedabad,Maintenance,1557
+E01475,2025-05-01,Anand,Rent,45000
+E01476,2025-05-05,Anand,Salary,195808
+E01477,2025-05-10,Anand,Utilities,13646
+E01478,2025-05-15,Anand,Marketing,19982
+E01479,2025-05-15,Anand,Consumables,7258
+E01480,2025-05-15,Anand,Consumables,6434
+E01481,2025-05-12,Anand,Consumables,3975
+E01482,2025-05-04,Anand,Consumables,1254
+E01483,2025-05-26,Anand,Consumables,7449
+E01484,2025-05-16,Anand,Consumables,6407
+E01485,2025-05-25,Anand,Maintenance,7135
+E01486,2025-05-11,Anand,Consumables,1182
+E01487,2025-05-13,Anand,Consumables,6382
+E01488,2025-05-24,Anand,Maintenance,6468
+E01489,2025-05-25,Anand,Consumables,4312
+E01490,2025-05-10,Anand,Maintenance,2105
+E01491,2025-05-12,Anand,Consumables,505
+E01492,2025-05-23,Anand,Maintenance,3111
+E01493,2025-05-25,Anand,Consumables,6083
+E01494,2025-05-20,Anand,Maintenance,4320
+E01495,2025-05-23,Anand,Maintenance,1869
+E01496,2025-05-28,Anand,Maintenance,3425
+E01497,2025-05-08,Anand,Consumables,7670
+E01498,2025-05-08,Anand,Consumables,5130
+E01499,2025-05-05,Anand,Consumables,5023
+E01500,2025-05-18,Anand,Consumables,3867
+E01501,2025-05-24,Anand,Consumables,7422
+E01502,2025-05-04,Anand,Consumables,1789
+E01503,2025-05-28,Anand,Maintenance,1850
+E01504,2025-05-01,Vallabh Vidyanagar,Rent,40000
+E01505,2025-05-05,Vallabh Vidyanagar,Salary,209239
+E01506,2025-05-10,Vallabh Vidyanagar,Utilities,12190
+E01507,2025-05-15,Vallabh Vidyanagar,Marketing,7156
+E01508,2025-05-24,Vallabh Vidyanagar,Consumables,1125
+E01509,2025-05-22,Vallabh Vidyanagar,Consumables,1133
+E01510,2025-05-06,Vallabh Vidyanagar,Consumables,5818
+E01511,2025-05-22,Vallabh Vidyanagar,Consumables,5610
+E01512,2025-05-21,Vallabh Vidyanagar,Consumables,1550
+E01513,2025-05-28,Vallabh Vidyanagar,Consumables,696
+E01514,2025-05-22,Vallabh Vidyanagar,Consumables,680
+E01515,2025-05-26,Vallabh Vidyanagar,Consumables,4398
+E01516,2025-05-14,Vallabh Vidyanagar,Consumables,3385
+E01517,2025-05-28,Vallabh Vidyanagar,Consumables,4768
+E01518,2025-05-20,Vallabh Vidyanagar,Consumables,4165
+E01519,2025-05-03,Vallabh Vidyanagar,Maintenance,1768
+E01520,2025-05-21,Vallabh Vidyanagar,Maintenance,4766
+E01521,2025-05-01,Vallabh Vidyanagar,Consumables,892
+E01522,2025-05-24,Vallabh Vidyanagar,Maintenance,5012
+E01523,2025-05-28,Vallabh Vidyanagar,Maintenance,6913
+E01524,2025-05-04,Vallabh Vidyanagar,Maintenance,7255
+E01525,2025-05-21,Vallabh Vidyanagar,Consumables,7505
+E01526,2025-05-25,Vallabh Vidyanagar,Consumables,5399
+E01527,2025-05-17,Vallabh Vidyanagar,Maintenance,733
+E01528,2025-05-11,Vallabh Vidyanagar,Consumables,4851
+E01529,2025-05-14,Vallabh Vidyanagar,Maintenance,5838
+E01530,2025-05-04,Vallabh Vidyanagar,Consumables,3249
+E01531,2025-05-22,Vallabh Vidyanagar,Maintenance,5636
+E01532,2025-05-02,Vallabh Vidyanagar,Maintenance,3692
+E01533,2025-05-01,Ahmedabad,Rent,65000
+E01534,2025-05-05,Ahmedabad,Salary,207926
+E01535,2025-05-10,Ahmedabad,Utilities,13730
+E01536,2025-05-15,Ahmedabad,Marketing,11503
+E01537,2025-05-15,Ahmedabad,Maintenance,3009
+E01538,2025-05-28,Ahmedabad,Consumables,902
+E01539,2025-05-28,Ahmedabad,Maintenance,993
+E01540,2025-05-13,Ahmedabad,Maintenance,1904
+E01541,2025-05-21,Ahmedabad,Consumables,1373
+E01542,2025-05-19,Ahmedabad,Maintenance,6777
+E01543,2025-05-11,Ahmedabad,Consumables,7638
+E01544,2025-05-22,Ahmedabad,Maintenance,6616
+E01545,2025-05-21,Ahmedabad,Consumables,5461
+E01546,2025-05-21,Ahmedabad,Maintenance,5788
+E01547,2025-05-03,Ahmedabad,Maintenance,4496
+E01548,2025-05-19,Ahmedabad,Maintenance,1034
+E01549,2025-05-15,Ahmedabad,Maintenance,3724
+E01550,2025-05-28,Ahmedabad,Consumables,2469
+E01551,2025-05-11,Ahmedabad,Consumables,3456
+E01552,2025-05-18,Ahmedabad,Consumables,1198
+E01553,2025-05-18,Ahmedabad,Consumables,2579
+E01554,2025-05-02,Ahmedabad,Maintenance,5102
+E01555,2025-05-20,Ahmedabad,Consumables,5454
+E01556,2025-05-02,Ahmedabad,Consumables,1842
+E01557,2025-05-04,Ahmedabad,Consumables,1204
+E01558,2025-05-12,Ahmedabad,Consumables,7195
+E01559,2025-05-26,Ahmedabad,Consumables,4016
+E01560,2025-05-23,Ahmedabad,Consumables,5950
+E01561,2025-05-18,Ahmedabad,Consumables,3905
+E01562,2025-05-18,Ahmedabad,Maintenance,1101
+E01563,2025-05-14,Ahmedabad,Consumables,6338
+E01564,2025-05-09,Ahmedabad,Maintenance,634
+E01565,2025-05-11,Ahmedabad,Consumables,1223
+E01566,2025-05-21,Ahmedabad,Maintenance,7739
+E01567,2025-06-01,Anand,Rent,45000
+E01568,2025-06-05,Anand,Salary,229317
+E01569,2025-06-10,Anand,Utilities,11976
+E01570,2025-06-15,Anand,Marketing,11760
+E01571,2025-06-14,Anand,Consumables,6903
+E01572,2025-06-15,Anand,Consumables,6439
+E01573,2025-06-24,Anand,Consumables,7874
+E01574,2025-06-26,Anand,Consumables,736
+E01575,2025-06-08,Anand,Consumables,2208
+E01576,2025-06-13,Anand,Consumables,7946
+E01577,2025-06-07,Anand,Consumables,2889
+E01578,2025-06-22,Anand,Maintenance,1106
+E01579,2025-06-19,Anand,Consumables,6600
+E01580,2025-06-20,Anand,Maintenance,3934
+E01581,2025-06-12,Anand,Maintenance,4778
+E01582,2025-06-06,Anand,Consumables,4018
+E01583,2025-06-19,Anand,Consumables,6340
+E01584,2025-06-28,Anand,Maintenance,3426
+E01585,2025-06-27,Anand,Maintenance,3956
+E01586,2025-06-17,Anand,Consumables,3584
+E01587,2025-06-14,Anand,Maintenance,1544
+E01588,2025-06-23,Anand,Consumables,5684
+E01589,2025-06-10,Anand,Consumables,3975
+E01590,2025-06-09,Anand,Consumables,2767
+E01591,2025-06-22,Anand,Maintenance,4835
+E01592,2025-06-08,Anand,Consumables,2309
+E01593,2025-06-25,Anand,Consumables,7353
+E01594,2025-06-01,Anand,Consumables,2482
+E01595,2025-06-02,Anand,Consumables,7061
+E01596,2025-06-17,Anand,Consumables,2007
+E01597,2025-06-11,Anand,Maintenance,6727
+E01598,2025-06-04,Anand,Maintenance,2651
+E01599,2025-06-20,Anand,Consumables,4569
+E01600,2025-06-01,Vallabh Vidyanagar,Rent,40000
+E01601,2025-06-05,Vallabh Vidyanagar,Salary,229749
+E01602,2025-06-10,Vallabh Vidyanagar,Utilities,9657
+E01603,2025-06-15,Vallabh Vidyanagar,Marketing,5712
+E01604,2025-06-04,Vallabh Vidyanagar,Consumables,7537
+E01605,2025-06-15,Vallabh Vidyanagar,Consumables,1103
+E01606,2025-06-15,Vallabh Vidyanagar,Consumables,4627
+E01607,2025-06-09,Vallabh Vidyanagar,Consumables,5445
+E01608,2025-06-28,Vallabh Vidyanagar,Maintenance,1761
+E01609,2025-06-20,Vallabh Vidyanagar,Consumables,790
+E01610,2025-06-08,Vallabh Vidyanagar,Consumables,3859
+E01611,2025-06-17,Vallabh Vidyanagar,Maintenance,5131
+E01612,2025-06-14,Vallabh Vidyanagar,Consumables,6852
+E01613,2025-06-03,Vallabh Vidyanagar,Maintenance,3261
+E01614,2025-06-25,Vallabh Vidyanagar,Consumables,7410
+E01615,2025-06-27,Vallabh Vidyanagar,Consumables,1408
+E01616,2025-06-04,Vallabh Vidyanagar,Consumables,966
+E01617,2025-06-28,Vallabh Vidyanagar,Consumables,1504
+E01618,2025-06-24,Vallabh Vidyanagar,Maintenance,7275
+E01619,2025-06-10,Vallabh Vidyanagar,Maintenance,5352
+E01620,2025-06-08,Vallabh Vidyanagar,Maintenance,6142
+E01621,2025-06-13,Vallabh Vidyanagar,Consumables,4821
+E01622,2025-06-05,Vallabh Vidyanagar,Maintenance,595
+E01623,2025-06-16,Vallabh Vidyanagar,Consumables,6074
+E01624,2025-06-07,Vallabh Vidyanagar,Consumables,952
+E01625,2025-06-11,Vallabh Vidyanagar,Consumables,6949
+E01626,2025-06-05,Vallabh Vidyanagar,Maintenance,1267
+E01627,2025-06-15,Vallabh Vidyanagar,Consumables,3344
+E01628,2025-06-09,Vallabh Vidyanagar,Consumables,7693
+E01629,2025-06-19,Vallabh Vidyanagar,Maintenance,6345
+E01630,2025-06-09,Vallabh Vidyanagar,Consumables,5870
+E01631,2025-06-18,Vallabh Vidyanagar,Consumables,5068
+E01632,2025-06-24,Vallabh Vidyanagar,Maintenance,4551
+E01633,2025-06-11,Vallabh Vidyanagar,Consumables,3986
+E01634,2025-06-01,Ahmedabad,Rent,65000
+E01635,2025-06-05,Ahmedabad,Salary,220977
+E01636,2025-06-10,Ahmedabad,Utilities,10664
+E01637,2025-06-15,Ahmedabad,Marketing,19656
+E01638,2025-06-04,Ahmedabad,Maintenance,7189
+E01639,2025-06-17,Ahmedabad,Maintenance,2630
+E01640,2025-06-12,Ahmedabad,Maintenance,1486
+E01641,2025-06-14,Ahmedabad,Consumables,794
+E01642,2025-06-08,Ahmedabad,Consumables,5226
+E01643,2025-06-13,Ahmedabad,Consumables,1715
+E01644,2025-06-17,Ahmedabad,Consumables,4259
+E01645,2025-06-04,Ahmedabad,Consumables,2884
+E01646,2025-06-28,Ahmedabad,Consumables,3460
+E01647,2025-06-25,Ahmedabad,Consumables,6732
+E01648,2025-06-26,Ahmedabad,Consumables,1066
+E01649,2025-06-27,Ahmedabad,Consumables,3819
+E01650,2025-06-22,Ahmedabad,Consumables,6187
+E01651,2025-06-03,Ahmedabad,Consumables,672
+E01652,2025-06-05,Ahmedabad,Consumables,4270
+E01653,2025-06-17,Ahmedabad,Consumables,2044
+E01654,2025-06-28,Ahmedabad,Consumables,2512
+E01655,2025-06-05,Ahmedabad,Consumables,3068
+E01656,2025-06-02,Ahmedabad,Consumables,7864
+E01657,2025-06-02,Ahmedabad,Consumables,4210
+E01658,2025-06-26,Ahmedabad,Consumables,5283
+E01659,2025-06-01,Ahmedabad,Consumables,7489
+E01660,2025-06-25,Ahmedabad,Consumables,5885
+E01661,2025-06-07,Ahmedabad,Consumables,1535
+E01662,2025-06-27,Ahmedabad,Consumables,2067
+E01663,2025-07-01,Anand,Rent,45000
+E01664,2025-07-05,Anand,Salary,213141
+E01665,2025-07-10,Anand,Utilities,9856
+E01666,2025-07-15,Anand,Marketing,14839
+E01667,2025-07-04,Anand,Consumables,2106
+E01668,2025-07-05,Anand,Consumables,6787
+E01669,2025-07-14,Anand,Consumables,1656
+E01670,2025-07-09,Anand,Consumables,4378
+E01671,2025-07-20,Anand,Consumables,3253
+E01672,2025-07-28,Anand,Consumables,5417
+E01673,2025-07-25,Anand,Maintenance,4271
+E01674,2025-07-12,Anand,Consumables,5664
+E01675,2025-07-03,Anand,Consumables,4824
+E01676,2025-07-08,Anand,Maintenance,4189
+E01677,2025-07-04,Anand,Consumables,3259
+E01678,2025-07-05,Anand,Maintenance,4947
+E01679,2025-07-20,Anand,Consumables,2603
+E01680,2025-07-07,Anand,Maintenance,5809
+E01681,2025-07-26,Anand,Consumables,3967
+E01682,2025-07-17,Anand,Consumables,4189
+E01683,2025-07-04,Anand,Consumables,1734
+E01684,2025-07-13,Anand,Consumables,5439
+E01685,2025-07-18,Anand,Consumables,5751
+E01686,2025-07-17,Anand,Consumables,2272
+E01687,2025-07-22,Anand,Consumables,7987
+E01688,2025-07-23,Anand,Consumables,974
+E01689,2025-07-07,Anand,Consumables,4466
+E01690,2025-07-06,Anand,Maintenance,6143
+E01691,2025-07-13,Anand,Consumables,1919
+E01692,2025-07-03,Anand,Consumables,1655
+E01693,2025-07-11,Anand,Maintenance,3146
+E01694,2025-07-06,Anand,Consumables,1965
+E01695,2025-07-01,Vallabh Vidyanagar,Rent,40000
+E01696,2025-07-05,Vallabh Vidyanagar,Salary,188073
+E01697,2025-07-10,Vallabh Vidyanagar,Utilities,9350
+E01698,2025-07-15,Vallabh Vidyanagar,Marketing,8529
+E01699,2025-07-05,Vallabh Vidyanagar,Consumables,6724
+E01700,2025-07-16,Vallabh Vidyanagar,Consumables,1353
+E01701,2025-07-25,Vallabh Vidyanagar,Consumables,4305
+E01702,2025-07-24,Vallabh Vidyanagar,Maintenance,3537
+E01703,2025-07-09,Vallabh Vidyanagar,Maintenance,1232
+E01704,2025-07-02,Vallabh Vidyanagar,Consumables,2650
+E01705,2025-07-01,Vallabh Vidyanagar,Maintenance,2714
+E01706,2025-07-03,Vallabh Vidyanagar,Maintenance,2485
+E01707,2025-07-08,Vallabh Vidyanagar,Consumables,5819
+E01708,2025-07-24,Vallabh Vidyanagar,Consumables,2606
+E01709,2025-07-11,Vallabh Vidyanagar,Consumables,4828
+E01710,2025-07-21,Vallabh Vidyanagar,Consumables,2849
+E01711,2025-07-28,Vallabh Vidyanagar,Maintenance,649
+E01712,2025-07-27,Vallabh Vidyanagar,Consumables,6998
+E01713,2025-07-23,Vallabh Vidyanagar,Consumables,955
+E01714,2025-07-27,Vallabh Vidyanagar,Maintenance,657
+E01715,2025-07-19,Vallabh Vidyanagar,Consumables,1570
+E01716,2025-07-27,Vallabh Vidyanagar,Consumables,761
+E01717,2025-07-16,Vallabh Vidyanagar,Consumables,2106
+E01718,2025-07-20,Vallabh Vidyanagar,Consumables,2463
+E01719,2025-07-01,Vallabh Vidyanagar,Consumables,6060
+E01720,2025-07-08,Vallabh Vidyanagar,Consumables,7519
+E01721,2025-07-03,Vallabh Vidyanagar,Maintenance,6283
+E01722,2025-07-15,Vallabh Vidyanagar,Maintenance,1140
+E01723,2025-07-16,Vallabh Vidyanagar,Maintenance,2753
+E01724,2025-07-10,Vallabh Vidyanagar,Consumables,1817
+E01725,2025-07-10,Vallabh Vidyanagar,Maintenance,2191
+E01726,2025-07-24,Vallabh Vidyanagar,Maintenance,1661
+E01727,2025-07-01,Ahmedabad,Rent,65000
+E01728,2025-07-05,Ahmedabad,Salary,202889
+E01729,2025-07-10,Ahmedabad,Utilities,9514
+E01730,2025-07-15,Ahmedabad,Marketing,16455
+E01731,2025-07-08,Ahmedabad,Consumables,7450
+E01732,2025-07-01,Ahmedabad,Maintenance,2083
+E01733,2025-07-21,Ahmedabad,Consumables,5903
+E01734,2025-07-22,Ahmedabad,Consumables,3590
+E01735,2025-07-11,Ahmedabad,Consumables,4567
+E01736,2025-07-19,Ahmedabad,Consumables,7299
+E01737,2025-07-14,Ahmedabad,Consumables,762
+E01738,2025-07-09,Ahmedabad,Consumables,3651
+E01739,2025-07-16,Ahmedabad,Consumables,2271
+E01740,2025-07-26,Ahmedabad,Consumables,5935
+E01741,2025-07-14,Ahmedabad,Maintenance,1306
+E01742,2025-07-18,Ahmedabad,Consumables,7718
+E01743,2025-07-08,Ahmedabad,Consumables,4716
+E01744,2025-07-19,Ahmedabad,Maintenance,3244
+E01745,2025-07-26,Ahmedabad,Consumables,4184
+E01746,2025-07-06,Ahmedabad,Consumables,7843
+E01747,2025-07-05,Ahmedabad,Consumables,530
+E01748,2025-07-15,Ahmedabad,Maintenance,5382
+E01749,2025-07-03,Ahmedabad,Maintenance,3468
+E01750,2025-07-07,Ahmedabad,Consumables,6703
+E01751,2025-07-05,Ahmedabad,Consumables,1699
+E01752,2025-07-28,Ahmedabad,Consumables,4301
+E01753,2025-07-03,Ahmedabad,Maintenance,5687
+E01754,2025-07-14,Ahmedabad,Consumables,4280
+E01755,2025-07-01,Ahmedabad,Consumables,5014
+E01756,2025-08-01,Anand,Rent,45000
+E01757,2025-08-05,Anand,Salary,224299
+E01758,2025-08-10,Anand,Utilities,10657
+E01759,2025-08-15,Anand,Marketing,5003
+E01760,2025-08-05,Anand,Consumables,5785
+E01761,2025-08-26,Anand,Consumables,598
+E01762,2025-08-12,Anand,Consumables,4526
+E01763,2025-08-01,Anand,Consumables,7666
+E01764,2025-08-27,Anand,Consumables,4113
+E01765,2025-08-24,Anand,Consumables,2118
+E01766,2025-08-01,Anand,Consumables,4848
+E01767,2025-08-14,Anand,Consumables,3543
+E01768,2025-08-20,Anand,Consumables,996
+E01769,2025-08-07,Anand,Consumables,695
+E01770,2025-08-02,Anand,Maintenance,5523
+E01771,2025-08-24,Anand,Consumables,5987
+E01772,2025-08-03,Anand,Consumables,5956
+E01773,2025-08-24,Anand,Consumables,7109
+E01774,2025-08-08,Anand,Consumables,3041
+E01775,2025-08-01,Anand,Consumables,1234
+E01776,2025-08-16,Anand,Maintenance,2361
+E01777,2025-08-13,Anand,Consumables,3980
+E01778,2025-08-02,Anand,Consumables,6880
+E01779,2025-08-15,Anand,Consumables,1481
+E01780,2025-08-19,Anand,Consumables,3686
+E01781,2025-08-12,Anand,Consumables,846
+E01782,2025-08-17,Anand,Consumables,7537
+E01783,2025-08-07,Anand,Consumables,2118
+E01784,2025-08-17,Anand,Consumables,4820
+E01785,2025-08-20,Anand,Consumables,7640
+E01786,2025-08-01,Vallabh Vidyanagar,Rent,40000
+E01787,2025-08-05,Vallabh Vidyanagar,Salary,216510
+E01788,2025-08-10,Vallabh Vidyanagar,Utilities,11166
+E01789,2025-08-15,Vallabh Vidyanagar,Marketing,13547
+E01790,2025-08-21,Vallabh Vidyanagar,Consumables,1199
+E01791,2025-08-12,Vallabh Vidyanagar,Maintenance,735
+E01792,2025-08-15,Vallabh Vidyanagar,Consumables,6847
+E01793,2025-08-07,Vallabh Vidyanagar,Maintenance,7047
+E01794,2025-08-10,Vallabh Vidyanagar,Maintenance,6948
+E01795,2025-08-26,Vallabh Vidyanagar,Consumables,5607
+E01796,2025-08-24,Vallabh Vidyanagar,Maintenance,568
+E01797,2025-08-21,Vallabh Vidyanagar,Consumables,4823
+E01798,2025-08-12,Vallabh Vidyanagar,Consumables,6706
+E01799,2025-08-10,Vallabh Vidyanagar,Consumables,7602
+E01800,2025-08-13,Vallabh Vidyanagar,Consumables,1157
+E01801,2025-08-27,Vallabh Vidyanagar,Maintenance,7674
+E01802,2025-08-26,Vallabh Vidyanagar,Maintenance,3886
+E01803,2025-08-12,Vallabh Vidyanagar,Maintenance,982
+E01804,2025-08-06,Vallabh Vidyanagar,Maintenance,3322
+E01805,2025-08-22,Vallabh Vidyanagar,Consumables,5781
+E01806,2025-08-01,Vallabh Vidyanagar,Consumables,1128
+E01807,2025-08-19,Vallabh Vidyanagar,Consumables,7306
+E01808,2025-08-21,Vallabh Vidyanagar,Maintenance,5740
+E01809,2025-08-02,Vallabh Vidyanagar,Consumables,1296
+E01810,2025-08-07,Vallabh Vidyanagar,Consumables,3364
+E01811,2025-08-10,Vallabh Vidyanagar,Consumables,5903
+E01812,2025-08-11,Vallabh Vidyanagar,Consumables,5376
+E01813,2025-08-26,Vallabh Vidyanagar,Consumables,5449
+E01814,2025-08-10,Vallabh Vidyanagar,Maintenance,2812
+E01815,2025-08-01,Ahmedabad,Rent,65000
+E01816,2025-08-05,Ahmedabad,Salary,219820
+E01817,2025-08-10,Ahmedabad,Utilities,12764
+E01818,2025-08-15,Ahmedabad,Marketing,18685
+E01819,2025-08-17,Ahmedabad,Consumables,1579
+E01820,2025-08-13,Ahmedabad,Consumables,1577
+E01821,2025-08-12,Ahmedabad,Maintenance,582
+E01822,2025-08-05,Ahmedabad,Consumables,1282
+E01823,2025-08-15,Ahmedabad,Consumables,3537
+E01824,2025-08-26,Ahmedabad,Maintenance,715
+E01825,2025-08-27,Ahmedabad,Consumables,1722
+E01826,2025-08-04,Ahmedabad,Consumables,3280
+E01827,2025-08-13,Ahmedabad,Consumables,662
+E01828,2025-08-11,Ahmedabad,Consumables,3019
+E01829,2025-08-17,Ahmedabad,Consumables,4788
+E01830,2025-08-06,Ahmedabad,Consumables,3342
+E01831,2025-08-04,Ahmedabad,Consumables,2335
+E01832,2025-08-14,Ahmedabad,Consumables,2623
+E01833,2025-08-14,Ahmedabad,Consumables,3066
+E01834,2025-08-21,Ahmedabad,Maintenance,2445
+E01835,2025-08-04,Ahmedabad,Maintenance,4163
+E01836,2025-08-01,Ahmedabad,Consumables,5016
+E01837,2025-08-21,Ahmedabad,Maintenance,3350
+E01838,2025-08-17,Ahmedabad,Maintenance,4823
+E01839,2025-08-17,Ahmedabad,Consumables,885
+E01840,2025-08-25,Ahmedabad,Consumables,2349
+E01841,2025-08-15,Ahmedabad,Consumables,5393
+E01842,2025-08-20,Ahmedabad,Consumables,7131
+E01843,2025-08-25,Ahmedabad,Consumables,5273
+E01844,2025-08-09,Ahmedabad,Consumables,4751
+E01845,2025-08-28,Ahmedabad,Consumables,1635
+E01846,2025-08-02,Ahmedabad,Consumables,6594
+E01847,2025-08-19,Ahmedabad,Maintenance,6505
+E01848,2025-09-01,Anand,Rent,45000
+E01849,2025-09-05,Anand,Salary,204197
+E01850,2025-09-10,Anand,Utilities,9024
+E01851,2025-09-15,Anand,Marketing,17437
+E01852,2025-09-28,Anand,Consumables,3927
+E01853,2025-09-05,Anand,Consumables,2354
+E01854,2025-09-17,Anand,Consumables,536
+E01855,2025-09-02,Anand,Consumables,715
+E01856,2025-09-05,Anand,Consumables,1348
+E01857,2025-09-24,Anand,Consumables,5764
+E01858,2025-09-17,Anand,Consumables,5298
+E01859,2025-09-17,Anand,Maintenance,7850
+E01860,2025-09-08,Anand,Consumables,5607
+E01861,2025-09-18,Anand,Consumables,7827
+E01862,2025-09-07,Anand,Consumables,5121
+E01863,2025-09-12,Anand,Consumables,6249
+E01864,2025-09-23,Anand,Consumables,6903
+E01865,2025-09-19,Anand,Consumables,3342
+E01866,2025-09-24,Anand,Consumables,2802
+E01867,2025-09-22,Anand,Consumables,1445
+E01868,2025-09-14,Anand,Consumables,5540
+E01869,2025-09-03,Anand,Consumables,7961
+E01870,2025-09-19,Anand,Maintenance,2814
+E01871,2025-09-11,Anand,Consumables,5066
+E01872,2025-09-28,Anand,Consumables,5687
+E01873,2025-09-23,Anand,Maintenance,5622
+E01874,2025-09-13,Anand,Maintenance,6256
+E01875,2025-09-05,Anand,Consumables,3633
+E01876,2025-09-01,Vallabh Vidyanagar,Rent,40000
+E01877,2025-09-05,Vallabh Vidyanagar,Salary,227827
+E01878,2025-09-10,Vallabh Vidyanagar,Utilities,12928
+E01879,2025-09-15,Vallabh Vidyanagar,Marketing,16092
+E01880,2025-09-10,Vallabh Vidyanagar,Consumables,4342
+E01881,2025-09-11,Vallabh Vidyanagar,Consumables,4043
+E01882,2025-09-21,Vallabh Vidyanagar,Consumables,5999
+E01883,2025-09-18,Vallabh Vidyanagar,Consumables,3552
+E01884,2025-09-28,Vallabh Vidyanagar,Consumables,7156
+E01885,2025-09-09,Vallabh Vidyanagar,Maintenance,3369
+E01886,2025-09-12,Vallabh Vidyanagar,Consumables,1889
+E01887,2025-09-15,Vallabh Vidyanagar,Consumables,7279
+E01888,2025-09-09,Vallabh Vidyanagar,Consumables,3471
+E01889,2025-09-13,Vallabh Vidyanagar,Consumables,1708
+E01890,2025-09-13,Vallabh Vidyanagar,Maintenance,6484
+E01891,2025-09-09,Vallabh Vidyanagar,Consumables,6507
+E01892,2025-09-19,Vallabh Vidyanagar,Maintenance,1514
+E01893,2025-09-04,Vallabh Vidyanagar,Consumables,1102
+E01894,2025-09-06,Vallabh Vidyanagar,Consumables,6157
+E01895,2025-09-10,Vallabh Vidyanagar,Consumables,4124
+E01896,2025-09-12,Vallabh Vidyanagar,Consumables,7081
+E01897,2025-09-04,Vallabh Vidyanagar,Consumables,6919
+E01898,2025-09-09,Vallabh Vidyanagar,Consumables,5610
+E01899,2025-09-20,Vallabh Vidyanagar,Maintenance,1892
+E01900,2025-09-27,Vallabh Vidyanagar,Maintenance,2567
+E01901,2025-09-14,Vallabh Vidyanagar,Consumables,560
+E01902,2025-09-24,Vallabh Vidyanagar,Maintenance,3195
+E01903,2025-09-21,Vallabh Vidyanagar,Consumables,6583
+E01904,2025-09-05,Vallabh Vidyanagar,Consumables,3075
+E01905,2025-09-01,Vallabh Vidyanagar,Consumables,5244
+E01906,2025-09-12,Vallabh Vidyanagar,Maintenance,1033
+E01907,2025-09-09,Vallabh Vidyanagar,Maintenance,4333
+E01908,2025-09-01,Ahmedabad,Rent,65000
+E01909,2025-09-05,Ahmedabad,Salary,213920
+E01910,2025-09-10,Ahmedabad,Utilities,10648
+E01911,2025-09-15,Ahmedabad,Marketing,7033
+E01912,2025-09-27,Ahmedabad,Consumables,3727
+E01913,2025-09-14,Ahmedabad,Consumables,7788
+E01914,2025-09-20,Ahmedabad,Consumables,7690
+E01915,2025-09-06,Ahmedabad,Consumables,1947
+E01916,2025-09-24,Ahmedabad,Maintenance,7144
+E01917,2025-09-10,Ahmedabad,Consumables,2576
+E01918,2025-09-28,Ahmedabad,Consumables,4264
+E01919,2025-09-25,Ahmedabad,Consumables,2040
+E01920,2025-09-09,Ahmedabad,Consumables,762
+E01921,2025-09-17,Ahmedabad,Consumables,4412
+E01922,2025-09-02,Ahmedabad,Consumables,5294
+E01923,2025-09-15,Ahmedabad,Consumables,4930
+E01924,2025-09-04,Ahmedabad,Consumables,7147
+E01925,2025-09-11,Ahmedabad,Consumables,7947
+E01926,2025-09-26,Ahmedabad,Maintenance,1958
+E01927,2025-09-05,Ahmedabad,Consumables,1207
+E01928,2025-09-08,Ahmedabad,Consumables,4145
+E01929,2025-09-27,Ahmedabad,Consumables,1232
+E01930,2025-09-21,Ahmedabad,Consumables,7754
+E01931,2025-09-10,Ahmedabad,Consumables,3452
+E01932,2025-09-10,Ahmedabad,Consumables,6587
+E01933,2025-09-25,Ahmedabad,Consumables,7654
+E01934,2025-09-23,Ahmedabad,Maintenance,7302
+E01935,2025-09-18,Ahmedabad,Maintenance,4929
+E01936,2025-09-19,Ahmedabad,Consumables,7071
+E01937,2025-09-18,Ahmedabad,Consumables,2058
+E01938,2025-09-16,Ahmedabad,Maintenance,7454
+E01939,2025-09-18,Ahmedabad,Maintenance,3575
+E01940,2025-09-07,Ahmedabad,Consumables,4295
+E01941,2025-10-01,Anand,Rent,45000
+E01942,2025-10-05,Anand,Salary,184288
+E01943,2025-10-10,Anand,Utilities,8858
+E01944,2025-10-15,Anand,Marketing,18991
+E01945,2025-10-19,Anand,Consumables,2270
+E01946,2025-10-05,Anand,Consumables,4510
+E01947,2025-10-16,Anand,Consumables,911
+E01948,2025-10-10,Anand,Maintenance,5130
+E01949,2025-10-08,Anand,Consumables,6183
+E01950,2025-10-03,Anand,Consumables,7251
+E01951,2025-10-24,Anand,Consumables,4277
+E01952,2025-10-08,Anand,Consumables,3878
+E01953,2025-10-20,Anand,Maintenance,5535
+E01954,2025-10-26,Anand,Consumables,2497
+E01955,2025-10-12,Anand,Consumables,6132
+E01956,2025-10-28,Anand,Consumables,1638
+E01957,2025-10-09,Anand,Maintenance,6672
+E01958,2025-10-25,Anand,Consumables,547
+E01959,2025-10-06,Anand,Consumables,5644
+E01960,2025-10-06,Anand,Consumables,3747
+E01961,2025-10-28,Anand,Consumables,5501
+E01962,2025-10-14,Anand,Consumables,4430
+E01963,2025-10-08,Anand,Consumables,1261
+E01964,2025-10-07,Anand,Consumables,3890
+E01965,2025-10-05,Anand,Consumables,2347
+E01966,2025-10-22,Anand,Consumables,3948
+E01967,2025-10-11,Anand,Consumables,1069
+E01968,2025-10-04,Anand,Maintenance,6876
+E01969,2025-10-26,Anand,Consumables,5969
+E01970,2025-10-27,Anand,Consumables,3086
+E01971,2025-10-01,Anand,Consumables,6781
+E01972,2025-10-19,Anand,Consumables,5510
+E01973,2025-10-24,Anand,Consumables,1099
+E01974,2025-10-17,Anand,Maintenance,959
+E01975,2025-10-01,Vallabh Vidyanagar,Rent,40000
+E01976,2025-10-05,Vallabh Vidyanagar,Salary,234359
+E01977,2025-10-10,Vallabh Vidyanagar,Utilities,10581
+E01978,2025-10-15,Vallabh Vidyanagar,Marketing,11060
+E01979,2025-10-07,Vallabh Vidyanagar,Consumables,3667
+E01980,2025-10-12,Vallabh Vidyanagar,Consumables,3270
+E01981,2025-10-11,Vallabh Vidyanagar,Consumables,2638
+E01982,2025-10-06,Vallabh Vidyanagar,Consumables,3568
+E01983,2025-10-04,Vallabh Vidyanagar,Consumables,4676
+E01984,2025-10-27,Vallabh Vidyanagar,Consumables,5199
+E01985,2025-10-01,Vallabh Vidyanagar,Consumables,3199
+E01986,2025-10-03,Vallabh Vidyanagar,Consumables,1444
+E01987,2025-10-15,Vallabh Vidyanagar,Consumables,6581
+E01988,2025-10-14,Vallabh Vidyanagar,Consumables,7868
+E01989,2025-10-19,Vallabh Vidyanagar,Consumables,3175
+E01990,2025-10-27,Vallabh Vidyanagar,Consumables,5169
+E01991,2025-10-15,Vallabh Vidyanagar,Consumables,2241
+E01992,2025-10-20,Vallabh Vidyanagar,Consumables,3970
+E01993,2025-10-11,Vallabh Vidyanagar,Consumables,3762
+E01994,2025-10-06,Vallabh Vidyanagar,Maintenance,2951
+E01995,2025-10-19,Vallabh Vidyanagar,Maintenance,731
+E01996,2025-10-03,Vallabh Vidyanagar,Consumables,4449
+E01997,2025-10-12,Vallabh Vidyanagar,Consumables,1150
+E01998,2025-10-18,Vallabh Vidyanagar,Consumables,7857
+E01999,2025-10-26,Vallabh Vidyanagar,Consumables,2225
+E02000,2025-10-11,Vallabh Vidyanagar,Consumables,3462
+E02001,2025-10-25,Vallabh Vidyanagar,Consumables,2783
+E02002,2025-10-01,Vallabh Vidyanagar,Consumables,5474
+E02003,2025-10-28,Vallabh Vidyanagar,Consumables,2048
+E02004,2025-10-01,Ahmedabad,Rent,65000
+E02005,2025-10-05,Ahmedabad,Salary,180589
+E02006,2025-10-10,Ahmedabad,Utilities,13113
+E02007,2025-10-15,Ahmedabad,Marketing,9782
+E02008,2025-10-24,Ahmedabad,Consumables,742
+E02009,2025-10-19,Ahmedabad,Consumables,5943
+E02010,2025-10-12,Ahmedabad,Consumables,1565
+E02011,2025-10-27,Ahmedabad,Maintenance,4884
+E02012,2025-10-27,Ahmedabad,Consumables,7784
+E02013,2025-10-05,Ahmedabad,Consumables,2939
+E02014,2025-10-01,Ahmedabad,Consumables,3400
+E02015,2025-10-17,Ahmedabad,Consumables,7151
+E02016,2025-10-10,Ahmedabad,Maintenance,4542
+E02017,2025-10-24,Ahmedabad,Maintenance,3346
+E02018,2025-10-08,Ahmedabad,Consumables,4180
+E02019,2025-10-27,Ahmedabad,Consumables,3182
+E02020,2025-10-14,Ahmedabad,Maintenance,7849
+E02021,2025-10-25,Ahmedabad,Consumables,5784
+E02022,2025-10-17,Ahmedabad,Consumables,5363
+E02023,2025-10-08,Ahmedabad,Maintenance,6544
+E02024,2025-10-22,Ahmedabad,Consumables,2232
+E02025,2025-10-27,Ahmedabad,Consumables,1630
+E02026,2025-10-01,Ahmedabad,Consumables,1934
+E02027,2025-10-17,Ahmedabad,Consumables,4855
+E02028,2025-10-25,Ahmedabad,Maintenance,6977
+E02029,2025-10-18,Ahmedabad,Consumables,6114
+E02030,2025-10-25,Ahmedabad,Consumables,4819
+E02031,2025-10-17,Ahmedabad,Consumables,7845
+E02032,2025-10-28,Ahmedabad,Consumables,1178
+E02033,2025-10-09,Ahmedabad,Maintenance,3613
+E02034,2025-10-28,Ahmedabad,Maintenance,3214
+E02035,2025-10-26,Ahmedabad,Consumables,1074
+E02036,2025-10-21,Ahmedabad,Consumables,7851
+E02037,2025-11-01,Anand,Rent,45000
+E02038,2025-11-05,Anand,Salary,214746
+E02039,2025-11-10,Anand,Utilities,11864
+E02040,2025-11-15,Anand,Marketing,15730
+E02041,2025-11-25,Anand,Consumables,7449
+E02042,2025-11-13,Anand,Consumables,1678
+E02043,2025-11-26,Anand,Maintenance,6054
+E02044,2025-11-19,Anand,Consumables,3194
+E02045,2025-11-10,Anand,Maintenance,2362
+E02046,2025-11-10,Anand,Maintenance,5741
+E02047,2025-11-17,Anand,Maintenance,691
+E02048,2025-11-09,Anand,Consumables,2217
+E02049,2025-11-20,Anand,Consumables,6652
+E02050,2025-11-07,Anand,Consumables,2684
+E02051,2025-11-16,Anand,Consumables,6481
+E02052,2025-11-25,Anand,Consumables,7562
+E02053,2025-11-02,Anand,Maintenance,7276
+E02054,2025-11-05,Anand,Maintenance,2527
+E02055,2025-11-20,Anand,Consumables,7812
+E02056,2025-11-21,Anand,Consumables,6015
+E02057,2025-11-06,Anand,Consumables,5685
+E02058,2025-11-08,Anand,Consumables,4258
+E02059,2025-11-15,Anand,Consumables,3486
+E02060,2025-11-16,Anand,Maintenance,7102
+E02061,2025-11-20,Anand,Consumables,2846
+E02062,2025-11-10,Anand,Consumables,5198
+E02063,2025-11-27,Anand,Maintenance,5164
+E02064,2025-11-01,Anand,Maintenance,3036
+E02065,2025-11-26,Anand,Maintenance,2154
+E02066,2025-11-01,Vallabh Vidyanagar,Rent,40000
+E02067,2025-11-05,Vallabh Vidyanagar,Salary,239401
+E02068,2025-11-10,Vallabh Vidyanagar,Utilities,8569
+E02069,2025-11-15,Vallabh Vidyanagar,Marketing,16596
+E02070,2025-11-25,Vallabh Vidyanagar,Consumables,1088
+E02071,2025-11-02,Vallabh Vidyanagar,Consumables,1616
+E02072,2025-11-11,Vallabh Vidyanagar,Consumables,6718
+E02073,2025-11-12,Vallabh Vidyanagar,Consumables,5439
+E02074,2025-11-26,Vallabh Vidyanagar,Consumables,3022
+E02075,2025-11-07,Vallabh Vidyanagar,Consumables,1164
+E02076,2025-11-01,Vallabh Vidyanagar,Consumables,1572
+E02077,2025-11-02,Vallabh Vidyanagar,Consumables,782
+E02078,2025-11-20,Vallabh Vidyanagar,Maintenance,2257
+E02079,2025-11-10,Vallabh Vidyanagar,Consumables,4179
+E02080,2025-11-06,Vallabh Vidyanagar,Maintenance,2656
+E02081,2025-11-17,Vallabh Vidyanagar,Maintenance,5495
+E02082,2025-11-07,Vallabh Vidyanagar,Consumables,5897
+E02083,2025-11-07,Vallabh Vidyanagar,Consumables,7583
+E02084,2025-11-22,Vallabh Vidyanagar,Consumables,5364
+E02085,2025-11-18,Vallabh Vidyanagar,Consumables,2073
+E02086,2025-11-26,Vallabh Vidyanagar,Consumables,5624
+E02087,2025-11-07,Vallabh Vidyanagar,Consumables,3353
+E02088,2025-11-20,Vallabh Vidyanagar,Consumables,6225
+E02089,2025-11-24,Vallabh Vidyanagar,Consumables,6298
+E02090,2025-11-08,Vallabh Vidyanagar,Consumables,3295
+E02091,2025-11-06,Vallabh Vidyanagar,Consumables,7086
+E02092,2025-11-14,Vallabh Vidyanagar,Maintenance,5868
+E02093,2025-11-25,Vallabh Vidyanagar,Maintenance,3493
+E02094,2025-11-12,Vallabh Vidyanagar,Consumables,3911
+E02095,2025-11-14,Vallabh Vidyanagar,Consumables,3481
+E02096,2025-11-01,Ahmedabad,Rent,65000
+E02097,2025-11-05,Ahmedabad,Salary,202507
+E02098,2025-11-10,Ahmedabad,Utilities,14607
+E02099,2025-11-15,Ahmedabad,Marketing,14617
+E02100,2025-11-14,Ahmedabad,Consumables,3551
+E02101,2025-11-19,Ahmedabad,Consumables,6801
+E02102,2025-11-12,Ahmedabad,Consumables,4013
+E02103,2025-11-26,Ahmedabad,Consumables,5092
+E02104,2025-11-18,Ahmedabad,Consumables,2194
+E02105,2025-11-21,Ahmedabad,Consumables,4835
+E02106,2025-11-28,Ahmedabad,Consumables,1767
+E02107,2025-11-05,Ahmedabad,Consumables,956
+E02108,2025-11-28,Ahmedabad,Consumables,7145
+E02109,2025-11-17,Ahmedabad,Consumables,7686
+E02110,2025-11-04,Ahmedabad,Consumables,1062
+E02111,2025-11-28,Ahmedabad,Consumables,6371
+E02112,2025-11-17,Ahmedabad,Consumables,7326
+E02113,2025-11-15,Ahmedabad,Consumables,1285
+E02114,2025-11-06,Ahmedabad,Consumables,1551
+E02115,2025-11-01,Ahmedabad,Consumables,1322
+E02116,2025-11-23,Ahmedabad,Consumables,5237
+E02117,2025-11-23,Ahmedabad,Consumables,3660
+E02118,2025-11-16,Ahmedabad,Consumables,6651
+E02119,2025-11-09,Ahmedabad,Consumables,541
+E02120,2025-11-21,Ahmedabad,Consumables,1862
+E02121,2025-11-19,Ahmedabad,Consumables,657
+E02122,2025-11-21,Ahmedabad,Consumables,2608
+E02123,2025-11-09,Ahmedabad,Consumables,4555
+E02124,2025-12-01,Anand,Rent,45000
+E02125,2025-12-05,Anand,Salary,226320
+E02126,2025-12-10,Anand,Utilities,9186
+E02127,2025-12-15,Anand,Marketing,14245
+E02128,2025-12-05,Anand,Consumables,6828
+E02129,2025-12-04,Anand,Consumables,541
+E02130,2025-12-23,Anand,Consumables,1238
+E02131,2025-12-01,Anand,Maintenance,5401
+E02132,2025-12-26,Anand,Consumables,2496
+E02133,2025-12-15,Anand,Consumables,2488
+E02134,2025-12-27,Anand,Consumables,7685
+E02135,2025-12-07,Anand,Consumables,4975
+E02136,2025-12-26,Anand,Maintenance,1637
+E02137,2025-12-19,Anand,Consumables,7957
+E02138,2025-12-21,Anand,Consumables,4481
+E02139,2025-12-12,Anand,Consumables,2526
+E02140,2025-12-20,Anand,Consumables,2384
+E02141,2025-12-12,Anand,Maintenance,6617
+E02142,2025-12-08,Anand,Consumables,4808
+E02143,2025-12-01,Anand,Consumables,4019
+E02144,2025-12-21,Anand,Consumables,7615
+E02145,2025-12-21,Anand,Consumables,7591
+E02146,2025-12-27,Anand,Consumables,1065
+E02147,2025-12-09,Anand,Maintenance,6058
+E02148,2025-12-02,Anand,Maintenance,7442
+E02149,2025-12-06,Anand,Maintenance,4900
+E02150,2025-12-07,Anand,Consumables,759
+E02151,2025-12-04,Anand,Consumables,6948
+E02152,2025-12-01,Vallabh Vidyanagar,Rent,40000
+E02153,2025-12-05,Vallabh Vidyanagar,Salary,208089
+E02154,2025-12-10,Vallabh Vidyanagar,Utilities,13910
+E02155,2025-12-15,Vallabh Vidyanagar,Marketing,13085
+E02156,2025-12-28,Vallabh Vidyanagar,Consumables,2854
+E02157,2025-12-07,Vallabh Vidyanagar,Maintenance,1317
+E02158,2025-12-24,Vallabh Vidyanagar,Consumables,784
+E02159,2025-12-22,Vallabh Vidyanagar,Maintenance,4190
+E02160,2025-12-10,Vallabh Vidyanagar,Consumables,2847
+E02161,2025-12-03,Vallabh Vidyanagar,Consumables,2167
+E02162,2025-12-03,Vallabh Vidyanagar,Consumables,5526
+E02163,2025-12-05,Vallabh Vidyanagar,Consumables,7499
+E02164,2025-12-06,Vallabh Vidyanagar,Consumables,6742
+E02165,2025-12-11,Vallabh Vidyanagar,Maintenance,2010
+E02166,2025-12-23,Vallabh Vidyanagar,Maintenance,3567
+E02167,2025-12-15,Vallabh Vidyanagar,Consumables,3119
+E02168,2025-12-05,Vallabh Vidyanagar,Consumables,2734
+E02169,2025-12-05,Vallabh Vidyanagar,Consumables,3472
+E02170,2025-12-22,Vallabh Vidyanagar,Maintenance,892
+E02171,2025-12-02,Vallabh Vidyanagar,Consumables,1053
+E02172,2025-12-13,Vallabh Vidyanagar,Consumables,6045
+E02173,2025-12-23,Vallabh Vidyanagar,Consumables,3610
+E02174,2025-12-03,Vallabh Vidyanagar,Consumables,1523
+E02175,2025-12-12,Vallabh Vidyanagar,Consumables,7881
+E02176,2025-12-22,Vallabh Vidyanagar,Consumables,1727
+E02177,2025-12-13,Vallabh Vidyanagar,Consumables,7260
+E02178,2025-12-10,Vallabh Vidyanagar,Consumables,7872
+E02179,2025-12-18,Vallabh Vidyanagar,Consumables,2348
+E02180,2025-12-15,Vallabh Vidyanagar,Consumables,3701
+E02181,2025-12-03,Vallabh Vidyanagar,Consumables,6118
+E02182,2025-12-08,Vallabh Vidyanagar,Consumables,6798
+E02183,2025-12-02,Vallabh Vidyanagar,Consumables,4660
+E02184,2025-12-01,Ahmedabad,Rent,65000
+E02185,2025-12-05,Ahmedabad,Salary,195677
+E02186,2025-12-10,Ahmedabad,Utilities,9028
+E02187,2025-12-15,Ahmedabad,Marketing,18102
+E02188,2025-12-18,Ahmedabad,Consumables,600
+E02189,2025-12-04,Ahmedabad,Consumables,2138
+E02190,2025-12-22,Ahmedabad,Consumables,7566
+E02191,2025-12-03,Ahmedabad,Consumables,5176
+E02192,2025-12-28,Ahmedabad,Consumables,3486
+E02193,2025-12-07,Ahmedabad,Consumables,4383
+E02194,2025-12-26,Ahmedabad,Maintenance,5023
+E02195,2025-12-03,Ahmedabad,Consumables,5065
+E02196,2025-12-27,Ahmedabad,Consumables,5020
+E02197,2025-12-03,Ahmedabad,Consumables,4930
+E02198,2025-12-16,Ahmedabad,Consumables,3061
+E02199,2025-12-08,Ahmedabad,Consumables,4612
+E02200,2025-12-22,Ahmedabad,Maintenance,1495
+E02201,2025-12-20,Ahmedabad,Maintenance,3549
+E02202,2025-12-06,Ahmedabad,Consumables,3255
+E02203,2025-12-09,Ahmedabad,Consumables,941
+E02204,2025-12-11,Ahmedabad,Consumables,6658
+E02205,2025-12-12,Ahmedabad,Consumables,6745
+E02206,2025-12-05,Ahmedabad,Consumables,3772
+E02207,2025-12-23,Ahmedabad,Consumables,6732
+E02208,2025-12-15,Ahmedabad,Consumables,2204
+E02209,2025-12-06,Ahmedabad,Consumables,4565
+E02210,2025-12-15,Ahmedabad,Consumables,6763
+E02211,2025-12-26,Ahmedabad,Consumables,7720
+E02212,2025-12-22,Ahmedabad,Consumables,3430
+E02213,2025-12-13,Ahmedabad,Maintenance,1026
+E02214,2025-12-19,Ahmedabad,Consumables,7066
+E02215,2025-12-18,Ahmedabad,Consumables,2012
+E02216,2025-12-20,Anand,Consumables,2901
+E02217,2025-12-20,Anand,Consumables,881
+E02218,2025-12-20,Anand,Consumables,2039
+E02219,2025-12-20,Anand,Consumables,2516
+E02220,2025-12-20,Anand,Consumables,655
+E02221,2025-12-20,Anand,Consumables,2263
+E02222,2025-12-20,Anand,Consumables,2116
+E02223,2025-12-20,Anand,Consumables,1422
+E02224,2025-12-20,Anand,Consumables,1105
+E02225,2025-12-20,Anand,Consumables,1153
+E02226,2025-12-20,Anand,Consumables,2603
+E02227,2025-12-20,Anand,Consumables,856
+E02228,2025-12-20,Anand,Consumables,2946
+E02229,2025-12-20,Anand,Consumables,1046
+E02230,2025-12-20,Anand,Consumables,2098
+E02231,2025-12-20,Anand,Consumables,1508
+E02232,2025-12-20,Anand,Consumables,565
+E02233,2025-12-20,Anand,Consumables,1526
+E02234,2025-12-20,Anand,Consumables,862
+E02235,2025-12-20,Anand,Consumables,2675
+E02236,2025-12-20,Anand,Consumables,2679
+E02237,2025-12-20,Anand,Consumables,989
+E02238,2025-12-20,Anand,Consumables,1008
+E02239,2025-12-20,Anand,Consumables,1890
+E02240,2025-12-20,Anand,Consumables,2083
+E02241,2025-12-20,Anand,Consumables,2636
+E02242,2025-12-20,Anand,Consumables,1797
+E02243,2025-12-20,Anand,Consumables,867
+E02244,2025-12-20,Anand,Consumables,866
+E02245,2025-12-20,Anand,Consumables,1196
+E02246,2025-12-20,Anand,Consumables,742
+E02247,2025-12-20,Anand,Consumables,775
+E02248,2025-12-20,Anand,Consumables,1239
+E02249,2025-12-20,Anand,Consumables,1106
+E02250,2025-12-20,Anand,Consumables,2500
+E02251,2025-12-20,Anand,Consumables,2312
+E02252,2025-12-20,Anand,Consumables,2324
+E02253,2025-12-20,Anand,Consumables,939
+E02254,2025-12-20,Anand,Consumables,2971
+E02255,2025-12-20,Anand,Consumables,2897
+E02256,2025-12-20,Anand,Consumables,2772
+E02257,2025-12-20,Anand,Consumables,2117
+E02258,2025-12-20,Anand,Consumables,962
+E02259,2025-12-20,Anand,Consumables,731
+E02260,2025-12-20,Anand,Consumables,1694
+E02261,2025-12-20,Anand,Consumables,2569
+E02262,2025-12-20,Anand,Consumables,1642
+E02263,2025-12-20,Anand,Consumables,1619
+E02264,2025-12-20,Anand,Consumables,2383
+E02265,2025-12-20,Anand,Consumables,1640
+E02266,2025-12-20,Anand,Consumables,2653
+E02267,2025-12-20,Anand,Consumables,1464
+E02268,2025-12-20,Anand,Consumables,2963
+E02269,2025-12-20,Anand,Consumables,2210
+E02270,2025-12-20,Anand,Consumables,2548
+E02271,2025-12-20,Anand,Consumables,2744
+E02272,2025-12-20,Anand,Consumables,886
+E02273,2025-12-20,Anand,Consumables,1148
+E02274,2025-12-20,Anand,Consumables,2721
+E02275,2025-12-20,Anand,Consumables,2693
+E02276,2025-12-20,Anand,Consumables,1839
+E02277,2025-12-20,Anand,Consumables,1829
+E02278,2025-12-20,Anand,Consumables,2463
+E02279,2025-12-20,Anand,Consumables,2366
+E02280,2025-12-20,Anand,Consumables,913
+E02281,2025-12-20,Anand,Consumables,2811
+E02282,2025-12-20,Anand,Consumables,750
+E02283,2025-12-20,Anand,Consumables,2981
+E02284,2025-12-20,Anand,Consumables,2067
+E02285,2025-12-20,Anand,Consumables,2402
+E02286,2025-12-20,Anand,Consumables,1502
+E02287,2025-12-20,Anand,Consumables,1044
+E02288,2025-12-20,Anand,Consumables,2224
+E02289,2025-12-20,Anand,Consumables,2794
+E02290,2025-12-20,Anand,Consumables,2461
+E02291,2025-12-20,Anand,Consumables,1219
+E02292,2025-12-20,Anand,Consumables,970
+E02293,2025-12-20,Anand,Consumables,564
+E02294,2025-12-20,Anand,Consumables,2348
+E02295,2025-12-20,Anand,Consumables,1421
+E02296,2025-12-20,Anand,Consumables,1024
+E02297,2025-12-20,Anand,Consumables,2286
+E02298,2025-12-20,Anand,Consumables,2408
+E02299,2025-12-20,Anand,Consumables,767
+E02300,2025-12-20,Anand,Consumables,1877
+E02301,2025-12-20,Anand,Consumables,1654
+E02302,2025-12-20,Anand,Consumables,2430
+E02303,2025-12-20,Anand,Consumables,1160
+E02304,2025-12-20,Anand,Consumables,1718
+E02305,2025-12-20,Anand,Consumables,1659
+E02306,2025-12-20,Anand,Consumables,640
+E02307,2025-12-20,Anand,Consumables,2464
+E02308,2025-12-20,Anand,Consumables,1362
+E02309,2025-12-20,Anand,Consumables,627
+E02310,2025-12-20,Anand,Consumables,2371
+E02311,2025-12-20,Anand,Consumables,2699
+E02312,2025-12-20,Anand,Consumables,1891
+E02313,2025-12-20,Anand,Consumables,2605
+E02314,2025-12-20,Anand,Consumables,769
+E02315,2025-12-20,Anand,Consumables,1369
+E02316,2025-12-20,Anand,Consumables,2437
+E02317,2025-12-20,Anand,Consumables,1109
+E02318,2025-12-20,Anand,Consumables,2520
+E02319,2025-12-20,Anand,Consumables,1700
+E02320,2025-12-20,Anand,Consumables,739
+E02321,2025-12-20,Anand,Consumables,1453
+E02322,2025-12-20,Anand,Consumables,1561
+E02323,2025-12-20,Anand,Consumables,1998
+E02324,2025-12-20,Anand,Consumables,2833
+E02325,2025-12-20,Anand,Consumables,1753
+E02326,2025-12-20,Anand,Consumables,1587
+E02327,2025-12-20,Anand,Consumables,643
+E02328,2025-12-20,Anand,Consumables,1462
+E02329,2025-12-20,Anand,Consumables,2737
+E02330,2025-12-20,Anand,Consumables,2209
+E02331,2025-12-20,Anand,Consumables,1908
+E02332,2025-12-20,Anand,Consumables,1611
+E02333,2025-12-20,Anand,Consumables,2834
+E02334,2025-12-20,Anand,Consumables,2887
+E02335,2025-12-20,Anand,Consumables,2529
+E02336,2025-12-20,Anand,Consumables,2699
+E02337,2025-12-20,Anand,Consumables,2392
+E02338,2025-12-20,Anand,Consumables,2488
+E02339,2025-12-20,Anand,Consumables,1096
+E02340,2025-12-20,Anand,Consumables,1667
+E02341,2025-12-20,Anand,Consumables,798
+E02342,2025-12-20,Anand,Consumables,2940
+E02343,2025-12-20,Anand,Consumables,2015
+E02344,2025-12-20,Anand,Consumables,2867
+E02345,2025-12-20,Anand,Consumables,1906
+E02346,2025-12-20,Anand,Consumables,2545
+E02347,2025-12-20,Anand,Consumables,1899
+E02348,2025-12-20,Anand,Consumables,1269
+E02349,2025-12-20,Anand,Consumables,2322
+E02350,2025-12-20,Anand,Consumables,1555
+E02351,2025-12-20,Anand,Consumables,2901
+E02352,2025-12-20,Anand,Consumables,908
+E02353,2025-12-20,Anand,Consumables,919
+E02354,2025-12-20,Anand,Consumables,1790
+E02355,2025-12-20,Anand,Consumables,1638
+E02356,2025-12-20,Anand,Consumables,509
+E02357,2025-12-20,Anand,Consumables,640
+E02358,2025-12-20,Anand,Consumables,1521
+E02359,2025-12-20,Anand,Consumables,2282
+E02360,2025-12-20,Anand,Consumables,1243
+E02361,2025-12-20,Anand,Consumables,2693
+E02362,2025-12-20,Anand,Consumables,2475
+E02363,2025-12-20,Anand,Consumables,1502
+E02364,2025-12-20,Anand,Consumables,2924
+E02365,2025-12-20,Anand,Consumables,1035
+E02366,2025-12-20,Anand,Consumables,2997
+E02367,2025-12-20,Anand,Consumables,937
+E02368,2025-12-20,Anand,Consumables,2822
+E02369,2025-12-20,Anand,Consumables,2682
+E02370,2025-12-20,Anand,Consumables,2376
+E02371,2025-12-20,Anand,Consumables,527
+E02372,2025-12-20,Anand,Consumables,571
+E02373,2025-12-20,Anand,Consumables,2381
+E02374,2025-12-20,Anand,Consumables,963
+E02375,2025-12-20,Anand,Consumables,1625
+E02376,2025-12-20,Anand,Consumables,1504
+E02377,2025-12-20,Anand,Consumables,2699
+E02378,2025-12-20,Anand,Consumables,894
+E02379,2025-12-20,Anand,Consumables,738
+E02380,2025-12-20,Anand,Consumables,2788
+E02381,2025-12-20,Anand,Consumables,2105
+E02382,2025-12-20,Anand,Consumables,595
+E02383,2025-12-20,Anand,Consumables,2534
+E02384,2025-12-20,Anand,Consumables,2322
+E02385,2025-12-20,Anand,Consumables,1901
+E02386,2025-12-20,Anand,Consumables,2239
+E02387,2025-12-20,Anand,Consumables,2740
+E02388,2025-12-20,Anand,Consumables,2273
+E02389,2025-12-20,Anand,Consumables,958
+E02390,2025-12-20,Anand,Consumables,2774
+E02391,2025-12-20,Anand,Consumables,2193
+E02392,2025-12-20,Anand,Consumables,1397
+E02393,2025-12-20,Anand,Consumables,2548
+E02394,2025-12-20,Anand,Consumables,566
+E02395,2025-12-20,Anand,Consumables,2546
+E02396,2025-12-20,Anand,Consumables,540
+E02397,2025-12-20,Anand,Consumables,1418
+E02398,2025-12-20,Anand,Consumables,2495
+E02399,2025-12-20,Anand,Consumables,1362
+E02400,2025-12-20,Anand,Consumables,1880

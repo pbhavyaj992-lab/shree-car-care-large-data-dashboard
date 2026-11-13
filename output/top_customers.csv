@@ -1,0 +1,21 @@
+customer_id,bookings,revenue,customer_name,home_branch
+C14988,11,81488,Rekha Mistry,Ahmedabad
+C03903,15,78485,Manish Patel,Ahmedabad
+C12834,11,77989,Meera Chauhan,Ahmedabad
+C05804,6,76294,Sanjay Chaudhary,Anand
+C02007,12,75488,Hardik Rathod,Ahmedabad
+C03238,14,75084,Manish Sharma,Anand
+C13275,9,74288,Ira Raval,Ahmedabad
+C13738,9,73889,Sunil Chauhan,Vallabh Vidyanagar
+C14647,13,73787,Geeta Vaghela,Ahmedabad
+C03178,14,72883,Riya Rathod,Ahmedabad
+C12730,14,72684,Jay Thakor,Anand
+C10865,13,72085,Sunita Shah,Vallabh Vidyanagar
+C01737,6,71392,Ramesh Thakor,Anand
+C08292,10,70688,Mitali Mistry,Anand
+C06700,11,68989,Suresh Patel,Ahmedabad
+C09005,13,68786,Aadhya Patel,Ahmedabad
+C03928,9,68691,Prakash Bhatt,Vallabh Vidyanagar
+C01781,10,68589,Mohan Soni,Anand
+C02088,13,68385,Kinjal Chauhan,Vallabh Vidyanagar
+C11709,15,68384,Yash Pandya,Anand

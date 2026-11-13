@@ -1,0 +1,13 @@
+service_id,service_name,bookings,revenue,category,base_price_inr,avg_bill
+S07,Ceramic Coating,4457,44712799,Coating,9999,10032.04
+S08,Ceramic Coating Pro,2188,32890092,Coating,14999,15032.03
+S09,Paint Protection Film,1161,29058140,PPF,24999,25028.54
+S06,Full Detailing,5498,19412271,Detailing,3499,3530.79
+S04,Interior Detailing,10172,15606349,Detailing,1499,1534.25
+S10,PPF Partial,1177,15335510,PPF,12999,13029.32
+S05,Exterior Detailing,7819,14307156,Detailing,1799,1829.79
+S11,Exterior Polish,11211,11555918,Polish,999,1030.77
+S02,Premium Car Wash,20196,10762040,Wash,499,532.88
+S01,Basic Car Wash,24312,8085304,Wash,299,332.56
+S03,Foam Wash,16702,7224809,Wash,399,432.57
+S12,Headlight Restoration,6699,5574431,Polish,799,832.13

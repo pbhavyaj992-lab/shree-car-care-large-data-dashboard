@@ -1,0 +1,25 @@
+staff_id,staff_name,branch,role,join_date
+ST001,Sara Patel,Anand,Manager,2023-04-01
+ST002,Parth Bhatt,Anand,Supervisor,2023-03-15
+ST003,Myra Verma,Anand,Detailer,2025-09-15
+ST004,Diya Agarwal,Anand,Detailer,2024-01-15
+ST005,Arjun Desai,Anand,Washer,2023-04-15
+ST006,Sagar Gupta,Anand,Washer,2023-09-15
+ST007,Karan Singh,Anand,Manager,2025-12-15
+ST008,Nirav Parmar,Anand,Supervisor,2023-08-15
+ST009,Parth Oza,Vallabh Vidyanagar,Manager,2023-04-01
+ST010,Aarav Raval,Vallabh Vidyanagar,Supervisor,2023-12-15
+ST011,Rita Thakor,Vallabh Vidyanagar,Detailer,2024-03-15
+ST012,Suresh Raval,Vallabh Vidyanagar,Detailer,2024-02-15
+ST013,Diya Rathod,Vallabh Vidyanagar,Washer,2023-06-15
+ST014,Sunil Gupta,Vallabh Vidyanagar,Washer,2024-01-15
+ST015,Falguni Soni,Vallabh Vidyanagar,Manager,2023-07-15
+ST016,Ananya Soni,Vallabh Vidyanagar,Supervisor,2024-11-15
+ST017,Ashok Agarwal,Ahmedabad,Manager,2023-04-01
+ST018,Nikhil Singh,Ahmedabad,Supervisor,2023-01-15
+ST019,Mahesh Raval,Ahmedabad,Detailer,2024-02-15
+ST020,Mahesh Kapadia,Ahmedabad,Detailer,2023-07-15
+ST021,Parth Vaghela,Ahmedabad,Washer,2025-06-15
+ST022,Aryan Chauhan,Ahmedabad,Washer,2024-04-15
+ST023,Nilesh Singh,Ahmedabad,Manager,2025-11-15
+ST024,Kabir Gupta,Ahmedabad,Supervisor,2025-03-15

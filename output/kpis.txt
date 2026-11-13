@@ -1,0 +1,14 @@
+Total bookings: 120,000
+Completed: 111,592  Cancelled: 4,818  No-show: 3,590
+Cancellation rate: 4.01%
+No-show rate: 2.99%
+Total revenue (completed only): Rs 214,524,819
+Total expenses: Rs 28,837,815
+Net cash (revenue - expenses): Rs 185,687,004
+Average bill (completed): Rs 1922.40
+Distinct customers booked: 14,996
+Repeat customers (2+ bookings): 14,957 (99.7% of customers who booked)
+Date range: 2024-01-01 to 2025-12-31
+Revenue 2024: Rs 106,886,954
+Revenue 2025: Rs 107,637,865
+YoY revenue growth 2025 vs 2024: 0.70%
